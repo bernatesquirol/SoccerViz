@@ -25,8 +25,12 @@ for competition in competitions:
     print(competition, lmg)
 
 # RESULTS: (Country, last minutes goals, all games)
-# England   168     380
-# France    156     380
-# Germany   130     306
-# Spain     145     380
-# Italy     158     380
+# England   168     380     0.442
+# France    156     380     0.411
+# Germany   130     306     0.424
+# Spain     145     380     0.381
+# Italy     158     380     0.415
+
+# SO:
+# BEST: England
+# WORST: Spain

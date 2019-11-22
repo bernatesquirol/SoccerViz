@@ -44,12 +44,16 @@ for competition in competitions:
         # second_half = mat_events[(mat_events['matchPeriod'] == '2H')]
         # print(status_changes)
 
-    print(competition, status_changes, len(mat_id))
+    print(competition, status_changes, len(mat_id), status_changes/len(mat_id))
 
 
 # RESULTS: (Country, status changes, all games)
-# England   2012 380
-# France    2045 380
-# Germany   1691 306
-# Spain     2026 380
-# Italy     2006 380
+# England   2012    380    5.29
+# France    2045    380    5.38
+# Germany   1691    306    5.52
+# Spain     2026    380    5.33
+# Italy     2006    380    5.27
+
+# SO:
+# BEST: Germany
+# WORST: Italy
