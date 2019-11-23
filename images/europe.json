@@ -25,16 +25,19 @@ europe_spec = {
       "encoding": {
         "color": {
           "type": "quantitative",
-          "field": "properties.num_players"
+          "field": "properties.num_players",
+          "title": "Players"
         },
         "tooltip": [
           {
             "type": "nominal",
-            "field": "properties.name"
+            "field": "properties.name",
+          	"title": "Country"
           },
           {
             "type": "quantitative",
-            "field": "properties.num_players"
+            "field": "properties.num_players",
+          	"title": "Players"
           }
         ]
       },
@@ -53,7 +56,8 @@ europe_spec = {
         },
         "y": {
           "type": "ordinal",
-          "field": "from"
+          "field": "from",
+          "title": ""
         }
       }
     }
@@ -6381,7 +6385,7 @@ europe_spec = {
       },
       {
         "number": 1347,
-        "from": "Rest of the world"
+        "from": "The others"
       }
     ]
   }

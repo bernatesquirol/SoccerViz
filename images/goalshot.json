@@ -1,4 +1,4 @@
-{
+goalshot = {
   "config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}},
   "layer": [
     {

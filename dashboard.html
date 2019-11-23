@@ -6,12 +6,25 @@
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@3"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@4"></script>
-    <script type="text/javascript" src="europe.json"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
           integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script type="text/javascript" src="images/goalshot.json"></script>
+    <script type="text/javascript">
+        function load() {
+            var spec = goalshot;  /* JSON output for your chart's specification */
+            // alert(spec);
+            var opt = {"renderer": "canvas", "actions": false};  /* Options for the embedding */
+            vegaEmbed("#box2", spec, opt);
+        }
+    </script>
     <style>
         body {
             text-align: center;
+        }
+
+        canvas {
+            width: 100%;
+            height: auto;
         }
 
         #main {
@@ -58,7 +71,7 @@
 
     </style>
 </head>
-<body>
+<body onload="load()">
 <div id="main">
     <div id="box1"></div>
     <div id="box2"></div>

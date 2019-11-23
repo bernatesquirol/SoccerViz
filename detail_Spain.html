@@ -12,9 +12,8 @@
             text-align: center;
         }
 
-        canvas {
-            width: auto;
-            height: 100%;
+        .add_overflow_x {
+            overflow-x: auto;
         }
 
         #main {
@@ -68,7 +67,7 @@
             var spec = europe_spec;  /* JSON output for your chart's specification */
             // alert(spec);
             var opt = {"renderer": "canvas", "actions": false};  /* Options for the embedding */
-            vegaEmbed("#canvas_europe", spec, opt);
+            vegaEmbed("#box5", spec, opt);
         }
     </script>
 </head>
@@ -102,7 +101,7 @@
             </tr>
         </table>
     </div>
-    <div id="box5">
+    <div id="box5" class="add_overflow_x">
         <!--<p>Players</p>-->
         <div id="canvas_europe"></div>
     </div>
