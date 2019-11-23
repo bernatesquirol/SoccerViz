@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@4"></script>
+    <script type="text/javascript" src="europe.json"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <style>
+        body {
+            text-align: center;
+        }
+
+        #main {
+            display: grid;
+            grid-template-columns: 33vw 33vw 33vw;
+            grid-template-rows: 50vh 50vh;
+        }
+
+        #box1 {
+            grid-column-start: 1;
+            grid-row-start: 1;
+            /*background-color: #CCC*/
+        }
+
+        #box2 {
+            grid-column-start: 2;
+            grid-row-start: 1;
+            /*background-color: #AAA*/
+        }
+
+        #box3 {
+            grid-column-start: 1;
+            grid-row-start: 2;
+            /*background-color: #777*/
+        }
+
+        #box4 {
+            grid-column-start: 2;
+            grid-row-start: 2;
+            /*background-color: #444*/
+        }
+
+        #box5 {
+            grid-column-start: 3;
+            grid-row-start: 1;
+            /*background-color: #444*/
+        }
+
+        #box5 {
+            grid-column-start: 3;
+            grid-row-start: 2;
+            /*background-color: #444*/
+        }
+
+    </style>
+</head>
+<body>
+<div id="main">
+    <div id="box1"></div>
+    <div id="box2"></div>
+    <div id="box3"></div>
+    <div id="box4">
+        <table class="table text-center">
+            <thead>
+            <tr>
+                <th scope="col"></th>
+                <th scope="col">0-0</th>
+                <th scope="col">Lead changes</th>
+                <th scope="col">Last minute goals</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td scope="row">Best</td>
+                <td><img class="rounded mx-auto d-block img-thumbnail" src="images/france-flag-xs.jpg" alt="France"></td>
+                <td><img class="rounded mx-auto d-block img-thumbnail" src="images/germany-flag-xs.jpg" alt="Germany"></td>
+                <td><img class="rounded mx-auto d-block img-thumbnail" src="images/england-flag-xs.jpg" alt="England"></td>
+            </tr>
+            <tr>
+                <td scope="row">Worst</td>
+                <td><img class="rounded mx-auto d-block img-thumbnail" src="images/england-flag-xs.jpg" alt="England"></td>
+                <td><img class="rounded mx-auto d-block img-thumbnail" src="images/italy-flag-xs.jpg" alt="Italy"></td>
+                <td><img class="rounded mx-auto d-block img-thumbnail" src="images/spain-flag-xs.jpg" alt="Spain"></td>
+            </tr>
+        </table>
+    </div>
+    <div id="box5"></div>
+    <div id="box6"></div>
+</div>
+
+</body>
+</html>

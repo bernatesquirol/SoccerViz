@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@4"></script>
+    <script type="text/javascript" src="images/europe.json"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <style>
+        body {
+            text-align: center;
+        }
+
+        canvas {
+            width: auto;
+            height: 100%;
+        }
+
+        #main {
+            display: grid;
+            grid-template-columns: 30vw 20vw 50vw;
+            grid-template-rows: 50vh 50vh;
+        }
+
+        #box1 {
+            grid-column-start: 1;
+            grid-row-start: 1;
+            /*background-color: #CCC*/
+        }
+
+        #box2 {
+            grid-column-start: 2;
+            grid-row-start: 1;
+            /*background-color: #AAA*/
+        }
+
+        #box3 {
+            grid-column-start: 1;
+            grid-row-start: 2;
+            /*background-color: #777*/
+        }
+
+        #box4 {
+            grid-column-start: 2;
+            grid-row-start: 2;
+            /*background-color: #444*/
+        }
+
+        #box5 {
+            grid-column-start: 3;
+            grid-row-start: 1;
+            grid-row-end: 3;
+            /*background-color: #444*/
+        }
+
+        .img-height {
+            padding: 4px;
+            height: 3em;
+            max-height: 100%;
+            width: auto;
+            max-width: 100%;
+        }
+
+    </style>
+    <script type="text/javascript">
+        function load() {
+            var spec = europe_spec;  /* JSON output for your chart's specification */
+            // alert(spec);
+            var opt = {"renderer": "canvas", "actions": false};  /* Options for the embedding */
+            vegaEmbed("#canvas_europe", spec, opt);
+        }
+    </script>
+</head>
+<body onload="load()">
+<div id="vis"></div>
+<div id="main">
+    <div id="box1"></div>
+    <div id="box2"></div>
+    <div id="box3"></div>
+    <div id="box4">
+        <table class="table-bordered text-center">
+            <thead>
+            <tr>
+                <th scope="col"></th>
+                <th scope="col">Average comparison</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row">0-0</th>
+                <td><img class="rounded mx-auto d-block img-height" src="images/down-circular-256.png" alt="France">
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">Lead changes</th>
+                <td><img class="rounded mx-auto d-block img-height" src="images/up-circular-256.jpg" alt="Spain"></td>
+            </tr>
+            <tr>
+                <th scope="row">Last minute goals</th>
+                <td><img class="rounded mx-auto d-block img-height" src="images/down-circular-256.png" alt="Spain"></td>
+            </tr>
+        </table>
+    </div>
+    <div id="box5">
+        <!--<p>Players</p>-->
+        <div id="canvas_europe"></div>
+    </div>
+</div>
+<script type="text/javascript">
+    var spec = {};  /* JSON output for your chart's specification */
+    var opt = {"renderer": "canvas", "actions": false};  /* Options for the embedding */
+    vegaEmbed("#box2", spec, opt);
+</script>
+
+</body>
+</html>
