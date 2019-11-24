@@ -1,0 +1,370 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import { Vega } from 'react-vega';
+
+const spec =  {
+  "config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}},
+  "hconcat": [
+    {
+      "hconcat": [
+        {
+          "hconcat": [
+            {
+              "hconcat": [
+                {
+                  "hconcat": [
+                    {
+                      "mark": "bar",
+                      "encoding": {
+                        "color": {
+                          "type": "quantitative",
+                          "field": "freq",
+                          "legend": null,
+                          "scale": {"domain": [1, 34], "scheme": "purples"}
+                        },
+                        "y": {
+                          "type": "ordinal",
+                          "field": "position",
+                          "title": ""
+                        }
+                      },
+                      "height": 400,
+                      "title": "🇫🇷",
+                      "width": 20
+                    },
+                    {
+                      "mark": "bar",
+                      "encoding": {
+                        "color": {
+                          "type": "ordinal",
+                          "field": "jensen",
+                          "legend": null,
+                          "scale": {"scheme": "redyellowgreen"},
+                          "sort": "descending"
+                        },
+                        "y": {
+                          "type": "ordinal",
+                          "axis": null,
+                          "field": "position",
+                          "title": ""
+                        }
+                      },
+                      "height": 400,
+                      "width": 20
+                    }
+                  ],
+                  "data": {"name": "data-d268475f13baff97953d13724c2e84a2"},
+                  "spacing": 3
+                },
+                {
+                  "hconcat": [
+                    {
+                      "mark": "bar",
+                      "encoding": {
+                        "color": {
+                          "type": "quantitative",
+                          "field": "freq",
+                          "legend": null,
+                          "scale": {"domain": [1, 34], "scheme": "purples"}
+                        },
+                        "y": {
+                          "type": "ordinal",
+                          "axis": null,
+                          "field": "position",
+                          "title": ""
+                        }
+                      },
+                      "height": 400,
+                      "title": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+                      "width": 20
+                    },
+                    {
+                      "mark": "bar",
+                      "encoding": {
+                        "color": {
+                          "type": "ordinal",
+                          "field": "jensen",
+                          "legend": null,
+                          "scale": {"scheme": "redyellowgreen"},
+                          "sort": "descending"
+                        },
+                        "y": {
+                          "type": "ordinal",
+                          "axis": null,
+                          "field": "position",
+                          "title": ""
+                        }
+                      },
+                      "height": 400,
+                      "width": 20
+                    }
+                  ],
+                  "data": {"name": "data-b4a293b56f8e65f262618ac62d16022d"},
+                  "spacing": 3
+                }
+              ],
+              "spacing": 15
+            },
+            {
+              "hconcat": [
+                {
+                  "mark": "bar",
+                  "encoding": {
+                    "color": {
+                      "type": "quantitative",
+                      "field": "freq",
+                      "legend": null,
+                      "scale": {"domain": [1, 34], "scheme": "purples"}
+                    },
+                    "y": {
+                      "type": "ordinal",
+                      "axis": null,
+                      "field": "position",
+                      "title": ""
+                    }
+                  },
+                  "height": 400,
+                  "title": "🇩🇪",
+                  "width": 20
+                },
+                {
+                  "mark": "bar",
+                  "encoding": {
+                    "color": {
+                      "type": "ordinal",
+                      "field": "jensen",
+                      "legend": null,
+                      "scale": {"scheme": "redyellowgreen"},
+                      "sort": "descending"
+                    },
+                    "y": {
+                      "type": "ordinal",
+                      "axis": null,
+                      "field": "position",
+                      "title": ""
+                    }
+                  },
+                  "height": 400,
+                  "width": 20
+                }
+              ],
+              "data": {"name": "data-84c6efe62e404bb053a480f2e6acbe6b"},
+              "spacing": 3
+            }
+          ],
+          "spacing": 15
+        },
+        {
+          "hconcat": [
+            {
+              "mark": "bar",
+              "encoding": {
+                "color": {
+                  "type": "quantitative",
+                  "field": "freq",
+                  "legend": null,
+                  "scale": {"domain": [1, 34], "scheme": "purples"}
+                },
+                "y": {
+                  "type": "ordinal",
+                  "axis": null,
+                  "field": "position",
+                  "title": ""
+                }
+              },
+              "height": 400,
+              "title": "🇮🇹",
+              "width": 20
+            },
+            {
+              "mark": "bar",
+              "encoding": {
+                "color": {
+                  "type": "ordinal",
+                  "field": "jensen",
+                  "legend": null,
+                  "scale": {"scheme": "redyellowgreen"},
+                  "sort": "descending"
+                },
+                "y": {
+                  "type": "ordinal",
+                  "axis": null,
+                  "field": "position",
+                  "title": ""
+                }
+              },
+              "height": 400,
+              "width": 20
+            }
+          ],
+          "data": {"name": "data-68cc76254a425f652ecb90e4c5fdde94"},
+          "spacing": 3
+        }
+      ],
+      "spacing": 15
+    },
+    {
+      "hconcat": [
+        {
+          "mark": "bar",
+          "encoding": {
+            "color": {
+              "type": "quantitative",
+              "field": "freq",
+              "legend": null,
+              "scale": {"domain": [1, 34], "scheme": "purples"}
+            },
+            "y": {
+              "type": "ordinal",
+              "axis": null,
+              "field": "position",
+              "title": ""
+            }
+          },
+          "height": 400,
+          "title": "🇪🇸",
+          "width": 20
+        },
+        {
+          "mark": "bar",
+          "encoding": {
+            "color": {
+              "type": "ordinal",
+              "field": "jensen",
+              "legend": null,
+              "scale": {"scheme": "redyellowgreen"},
+              "sort": "descending"
+            },
+            "y": {
+              "type": "ordinal",
+              "axis": null,
+              "field": "position",
+              "title": ""
+            }
+          },
+          "height": 400,
+          "width": 20
+        }
+      ],
+      "data": {"name": "data-67eb5b0f9cd8f166f707bb8dd17dc224"},
+      "spacing": 3
+    }
+  ],
+  "spacing": 15,
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json",
+  "datasets": {
+    "data-d268475f13baff97953d13724c2e84a2": [
+      {"position": 1, "jensen": 1, "freq": 2, "League": "🇫🇷"},
+      {"position": 2, "jensen": 2, "freq": 10, "League": "🇫🇷"},
+      {"position": 3, "jensen": 2, "freq": 15, "League": "🇫🇷"},
+      {"position": 4, "jensen": 2, "freq": 13, "League": "🇫🇷"},
+      {"position": 5, "jensen": 3, "freq": 16, "League": "🇫🇷"},
+      {"position": 6, "jensen": 3, "freq": 22, "League": "🇫🇷"},
+      {"position": 7, "jensen": 3, "freq": 29, "League": "🇫🇷"},
+      {"position": 8, "jensen": 3, "freq": 28, "League": "🇫🇷"},
+      {"position": 9, "jensen": 3, "freq": 29, "League": "🇫🇷"},
+      {"position": 10, "jensen": 3, "freq": 29, "League": "🇫🇷"},
+      {"position": 11, "jensen": 3, "freq": 33, "League": "🇫🇷"},
+      {"position": 12, "jensen": 3, "freq": 30, "League": "🇫🇷"},
+      {"position": 13, "jensen": 3, "freq": 29, "League": "🇫🇷"},
+      {"position": 14, "jensen": 4, "freq": 27, "League": "🇫🇷"},
+      {"position": 15, "jensen": 4, "freq": 31, "League": "🇫🇷"},
+      {"position": 16, "jensen": 4, "freq": 26, "League": "🇫🇷"},
+      {"position": 17, "jensen": 4, "freq": 30, "League": "🇫🇷"},
+      {"position": 18, "jensen": 4, "freq": 26, "League": "🇫🇷"},
+      {"position": 19, "jensen": 4, "freq": 14, "League": "🇫🇷"},
+      {"position": 20, "jensen": 4, "freq": 3, "League": "🇫🇷"}
+    ],
+    "data-b4a293b56f8e65f262618ac62d16022d": [
+      {"position": 1, "jensen": 1, "freq": 3, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 2, "jensen": 2, "freq": 7, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 3, "jensen": 2, "freq": 12, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 4, "jensen": 2, "freq": 18, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 5, "jensen": 2, "freq": 16, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 6, "jensen": 2, "freq": 15, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 7, "jensen": 3, "freq": 19, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 8, "jensen": 3, "freq": 16, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 9, "jensen": 3, "freq": 19, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 10, "jensen": 3, "freq": 18, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 11, "jensen": 3, "freq": 23, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 12, "jensen": 3, "freq": 28, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 13, "jensen": 3, "freq": 28, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 14, "jensen": 3, "freq": 26, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 15, "jensen": 3, "freq": 27, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 16, "jensen": 4, "freq": 31, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 17, "jensen": 4, "freq": 25, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 18, "jensen": 4, "freq": 24, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 19, "jensen": 4, "freq": 17, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"},
+      {"position": 20, "jensen": 4, "freq": 10, "League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"}
+    ],
+    "data-84c6efe62e404bb053a480f2e6acbe6b": [
+      {"position": 1, "jensen": 1, "freq": 3, "League": "🇩🇪"},
+      {"position": 2, "jensen": 2, "freq": 15, "League": "🇩🇪"},
+      {"position": 3, "jensen": 2, "freq": 22, "League": "🇩🇪"},
+      {"position": 4, "jensen": 2, "freq": 29, "League": "🇩🇪"},
+      {"position": 5, "jensen": 2, "freq": 27, "League": "🇩🇪"},
+      {"position": 6, "jensen": 2, "freq": 25, "League": "🇩🇪"},
+      {"position": 7, "jensen": 2, "freq": 22, "League": "🇩🇪"},
+      {"position": 8, "jensen": 2, "freq": 28, "League": "🇩🇪"},
+      {"position": 9, "jensen": 3, "freq": 25, "League": "🇩🇪"},
+      {"position": 10, "jensen": 3, "freq": 21, "League": "🇩🇪"},
+      {"position": 11, "jensen": 3, "freq": 22, "League": "🇩🇪"},
+      {"position": 12, "jensen": 3, "freq": 23, "League": "🇩🇪"},
+      {"position": 13, "jensen": 3, "freq": 19, "League": "🇩🇪"},
+      {"position": 14, "jensen": 3, "freq": 20, "League": "🇩🇪"},
+      {"position": 15, "jensen": 3, "freq": 17, "League": "🇩🇪"},
+      {"position": 16, "jensen": 4, "freq": 15, "League": "🇩🇪"},
+      {"position": 17, "jensen": 4, "freq": 9, "League": "🇩🇪"},
+      {"position": 18, "jensen": 4, "freq": 4, "League": "🇩🇪"}
+    ],
+    "data-68cc76254a425f652ecb90e4c5fdde94": [
+      {"position": 1, "jensen": 1, "freq": 6, "League": "🇮🇹"},
+      {"position": 2, "jensen": 1, "freq": 11, "League": "🇮🇹"},
+      {"position": 3, "jensen": 2, "freq": 14, "League": "🇮🇹"},
+      {"position": 4, "jensen": 2, "freq": 15, "League": "🇮🇹"},
+      {"position": 5, "jensen": 2, "freq": 15, "League": "🇮🇹"},
+      {"position": 6, "jensen": 3, "freq": 12, "League": "🇮🇹"},
+      {"position": 7, "jensen": 3, "freq": 22, "League": "🇮🇹"},
+      {"position": 8, "jensen": 3, "freq": 23, "League": "🇮🇹"},
+      {"position": 9, "jensen": 3, "freq": 24, "League": "🇮🇹"},
+      {"position": 10, "jensen": 3, "freq": 23, "League": "🇮🇹"},
+      {"position": 11, "jensen": 4, "freq": 22, "League": "🇮🇹"},
+      {"position": 12, "jensen": 4, "freq": 21, "League": "🇮🇹"},
+      {"position": 13, "jensen": 4, "freq": 18, "League": "🇮🇹"},
+      {"position": 14, "jensen": 4, "freq": 24, "League": "🇮🇹"},
+      {"position": 15, "jensen": 4, "freq": 29, "League": "🇮🇹"},
+      {"position": 16, "jensen": 4, "freq": 26, "League": "🇮🇹"},
+      {"position": 17, "jensen": 4, "freq": 24, "League": "🇮🇹"},
+      {"position": 18, "jensen": 4, "freq": 20, "League": "🇮🇹"},
+      {"position": 19, "jensen": 4, "freq": 9, "League": "🇮🇹"},
+      {"position": 20, "jensen": 4, "freq": 1, "League": "🇮🇹"}
+    ],
+    "data-67eb5b0f9cd8f166f707bb8dd17dc224": [
+      {"position": 1, "jensen": 1, "freq": 2, "League": "🇪🇸"},
+      {"position": 2, "jensen": 1, "freq": 7, "League": "🇪🇸"},
+      {"position": 3, "jensen": 1, "freq": 13, "League": "🇪🇸"},
+      {"position": 4, "jensen": 1, "freq": 10, "League": "🇪🇸"},
+      {"position": 5, "jensen": 2, "freq": 18, "League": "🇪🇸"},
+      {"position": 6, "jensen": 2, "freq": 21, "League": "🇪🇸"},
+      {"position": 7, "jensen": 2, "freq": 24, "League": "🇪🇸"},
+      {"position": 8, "jensen": 2, "freq": 25, "League": "🇪🇸"},
+      {"position": 9, "jensen": 3, "freq": 27, "League": "🇪🇸"},
+      {"position": 10, "jensen": 3, "freq": 34, "League": "🇪🇸"},
+      {"position": 11, "jensen": 3, "freq": 31, "League": "🇪🇸"},
+      {"position": 12, "jensen": 3, "freq": 31, "League": "🇪🇸"},
+      {"position": 13, "jensen": 3, "freq": 31, "League": "🇪🇸"},
+      {"position": 14, "jensen": 3, "freq": 32, "League": "🇪🇸"},
+      {"position": 15, "jensen": 3, "freq": 28, "League": "🇪🇸"},
+      {"position": 16, "jensen": 3, "freq": 22, "League": "🇪🇸"},
+      {"position": 17, "jensen": 3, "freq": 14, "League": "🇪🇸"},
+      {"position": 18, "jensen": 4, "freq": 14, "League": "🇪🇸"},
+      {"position": 19, "jensen": 4, "freq": 12, "League": "🇪🇸"},
+      {"position": 20, "jensen": 4, "freq": 10, "League": "🇪🇸"}
+    ]
+  }
+}
+
+const signalListeners = { };//hover: handleHover
+export default ()=>{
+  return <Vega spec={spec} signalListeners={signalListeners} />
+}

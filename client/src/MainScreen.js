@@ -2,12 +2,13 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Vega } from 'react-vega';
-import ClassificationDetail from './plots/ClassificationDetail'
+import ClassificationMain from './plots/ClassificationMain';
 
 function App() {
+  console.log(spec,data)
   return (
     <div className="App">
-      <ClassificationDetail></ClassificationDetail>
+      <ClassificationMain></ClassificationMain>
     </div>
   );
 }
