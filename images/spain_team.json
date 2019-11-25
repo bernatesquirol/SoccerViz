@@ -1,9 +1,39 @@
 {
   "config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}},
-  "data": {"name": "data-5d251138767c7110df692b3748d80652"},
-  "mark": {"type": "bar", "color": "#1d11ff "},
+  "data": {"name": "data-6c65cf76240e38a94f011a7cf09b2d18"},
+  "mark": {"type": "bar", "color": "#928ec3"},
   "encoding": {
-    "x": {
+    "color": {
+      "type": "nominal",
+      "field": "Groupings",
+      "scale": {
+        "domain": [
+          "Top",
+          "Top",
+          "Top",
+          "Upper Middle",
+          "Upper Middle",
+          "Upper Middle",
+          "Upper Middle",
+          "Upper Middle",
+          "Lower Middle",
+          "Lower Middle",
+          "Lower Middle",
+          "Lower Middle",
+          "Lower Middle",
+          "Lower Middle",
+          "Lower Middle",
+          "Lower Middle",
+          "Bottom",
+          "Bottom",
+          "Bottom",
+          "Bottom"
+        ],
+        "range": ["#64bc61", "#d7ee8e", "#fedd8d", "#f16e43"]
+      }
+    },
+    "x": {"type": "quantitative", "field": "Rating"},
+    "y": {
       "type": "nominal",
       "field": "Teams",
       "sort": [
@@ -28,34 +58,33 @@
         "R. Valladolid CF",
         "SD Huesca"
       ]
-    },
-    "y": {"type": "quantitative", "field": "Rating"}
+    }
   },
   "height": 400,
   "width": 500,
   "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json",
   "datasets": {
-    "data-5d251138767c7110df692b3748d80652": [
-      {"Teams": "FC Barcelona", "Rating": 86},
-      {"Teams": "Real Madrid", "Rating": 86},
-      {"Teams": "Atlético Madrid", "Rating": 84},
-      {"Teams": "Sevilla FC", "Rating": 80},
-      {"Teams": "Valencia CF", "Rating": 80},
-      {"Teams": "Real Betis", "Rating": 80},
-      {"Teams": "Athletic Club", "Rating": 79},
-      {"Teams": "Villarreal CF", "Rating": 79},
-      {"Teams": "Real Sociedad", "Rating": 78},
-      {"Teams": "RC Celta", "Rating": 77},
-      {"Teams": "SD Eibar", "Rating": 77},
-      {"Teams": "Girona FC", "Rating": 77},
-      {"Teams": "Getafe CF", "Rating": 77},
-      {"Teams": "RCD Espanyol", "Rating": 77},
-      {"Teams": "Levante UD", "Rating": 76},
-      {"Teams": "D. Alavés", "Rating": 76},
-      {"Teams": "CD Leganés", "Rating": 75},
-      {"Teams": "Rayo Vallecano", "Rating": 74},
-      {"Teams": "R. Valladolid CF", "Rating": 74},
-      {"Teams": "SD Huesca", "Rating": 72}
+    "data-6c65cf76240e38a94f011a7cf09b2d18": [
+      {"Teams": "FC Barcelona", "Rating": 86, "Groupings": "Top"},
+      {"Teams": "Real Madrid", "Rating": 86, "Groupings": "Top"},
+      {"Teams": "Atlético Madrid", "Rating": 84, "Groupings": "Top"},
+      {"Teams": "Sevilla FC", "Rating": 80, "Groupings": "Upper Middle"},
+      {"Teams": "Valencia CF", "Rating": 80, "Groupings": "Upper Middle"},
+      {"Teams": "Real Betis", "Rating": 80, "Groupings": "Upper Middle"},
+      {"Teams": "Athletic Club", "Rating": 79, "Groupings": "Upper Middle"},
+      {"Teams": "Villarreal CF", "Rating": 79, "Groupings": "Upper Middle"},
+      {"Teams": "Real Sociedad", "Rating": 78, "Groupings": "Lower Middle"},
+      {"Teams": "RC Celta", "Rating": 77, "Groupings": "Lower Middle"},
+      {"Teams": "SD Eibar", "Rating": 77, "Groupings": "Lower Middle"},
+      {"Teams": "Girona FC", "Rating": 77, "Groupings": "Lower Middle"},
+      {"Teams": "Getafe CF", "Rating": 77, "Groupings": "Lower Middle"},
+      {"Teams": "RCD Espanyol", "Rating": 77, "Groupings": "Lower Middle"},
+      {"Teams": "Levante UD", "Rating": 76, "Groupings": "Lower Middle"},
+      {"Teams": "D. Alavés", "Rating": 76, "Groupings": "Lower Middle"},
+      {"Teams": "CD Leganés", "Rating": 75, "Groupings": "Bottom"},
+      {"Teams": "Rayo Vallecano", "Rating": 74, "Groupings": "Bottom"},
+      {"Teams": "R. Valladolid CF", "Rating": 74, "Groupings": "Bottom"},
+      {"Teams": "SD Huesca", "Rating": 72, "Groupings": "Bottom"}
     ]
   }
 }
