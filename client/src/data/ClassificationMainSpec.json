@@ -1,8 +1,4 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import { Vega } from 'react-vega';
-
-const spec =  {
+{
   "config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}},
   "hconcat": [
     {
@@ -362,9 +358,4 @@ const spec =  {
       {"position": 20, "jensen": 4, "freq": 10, "League": "🇪🇸"}
     ]
   }
-}
-
-const signalListeners = { };//hover: handleHover
-export default ()=>{
-  return <Vega spec={spec} signalListeners={signalListeners} />
 }
