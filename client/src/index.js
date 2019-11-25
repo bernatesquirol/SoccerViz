@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Vega } from 'react-vega';
 import App from './App'
+import 'bootstrap/dist/css/bootstrap.min.css';
 const spec =  {
     $schema: 'https://vega.github.io/schema/vega/v5.json',
     width: 400,
