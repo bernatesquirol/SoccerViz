@@ -83,7 +83,7 @@ alt.Chart(source).mark_rect().encode(
     color='Changes:Q',
     tooltip='Changes:Q'
 ).properties(
-    width=400,
+    width=500,
     height=500
 ).serve()
 
