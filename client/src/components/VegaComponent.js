@@ -4,7 +4,7 @@ import { Vega } from 'react-vega';
 
 //const data = requireDir('../data');
 const dict={ 
-    'Classification2Detail':require('../data/ClassificationDetail2Spec.json'),
+    'ClassificationDetail2':require('../data/ClassificationDetail2Spec.json'),
     'ClassificationDetail':require('../data/ClassificationDetailSpec.json'),
     'ClassificationMain':require('../data/ClassificationMainSpec.json'),
     'ClassificationMain2':require('../data/ClassificationMain2Spec.json'),

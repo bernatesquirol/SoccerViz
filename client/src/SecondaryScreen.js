@@ -15,7 +15,7 @@ function NavDropdownExample(props) {
               <Col xs={4}>
                 <Nav.Item>
                 <Nav.Link eventKey="0">
-                    <h2>Classification</h2>
+                    <h2>League competition</h2>
                 </Nav.Link>
                 </Nav.Item>
             </Col>
@@ -37,6 +37,13 @@ function NavDropdownExample(props) {
       </Nav>
     );
   }
+  const dict = {
+    'es':'spanish',
+    'de':'german',
+    'it':'italian',
+    'gb':'english',
+    'fr':'french'
+  }
 class SecondScreen extends React.Component{
     state = {tab:0}
     render(){
@@ -46,13 +53,16 @@ class SecondScreen extends React.Component{
         </Row>
         <Row>
         <Col xs={4}>
-        <p>We want to know how interesting are the matches in each league</p>
+        <hr/>
+        <p>How competitive is {this.props.country?dict[this.props.country]:null} league</p>
         </Col>
         <Col xs={4}>
-            <p>Average matches stats</p>
+        <hr/>
+        <p>How interesting are the matches in {this.props.country?dict[this.props.country]:null} league</p>
         </Col>
         <Col xs={4}>
-            <p>Computing the attraction of players to the league</p>
+        <hr/>
+        <p>How attractive is {this.props.country?dict[this.props.country]:null} league to players</p>
         </Col>
         </Row>
         <Row>
@@ -60,21 +70,22 @@ class SecondScreen extends React.Component{
         {this.state.tab==0?
         <>
         <VegaComponent id='ClassificationDetail'></VegaComponent>
-        <p className="our-desc"> Table Ranking Variability </p>
+        <p className="our-desc"> Frequency of position after each round </p>
         <VegaComponent id='ClassificationDetail2'></VegaComponent>
+        <p className="our-desc"> FIFA 2019 ratings by team </p>
             {/*<p className="our-desc"> Team FIFA Ratings </p>*/}
         </>
         :
         (this.state.tab==1?
         <>
         <Numbers id='MatchesDetail'></Numbers>
-            <p className="our-desc"> Match Stats </p>
+            <p className="our-desc"> Match statistics per 90 min (green/red marker represents above/below average across leagues) </p>
         <VegaComponent id='MatchesDetail'></VegaComponent>
-            <p className="our-desc"> Key Performance Indicators </p>
+            <p className="our-desc"> Key match entertainment indicators compared to average </p>
         </>
         :
         <><VegaComponent id='PlayersDetail'/>
-            <p className="our-desc"> Player Diversity (Within Europe & The World) </p>
+            <p className="our-desc"> Player nationalities </p>
         </>
         )}
         </Col>
