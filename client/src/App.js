@@ -43,13 +43,12 @@ class App extends React.Component {
             {this.state.tab==0?
               <>
               <MainScreen></MainScreen>
-              <SecondaryScreen></SecondaryScreen>
-              <Button variant="primary"  onClick={()=>this.setState({tab:1})}>See the details</Button>
+              <Button variant="primary" style={{margin:20}} onClick={()=>this.setState({tab:1})}>See the details</Button>
               </>
               :null
             }
             {this.state.tab==1?
-              <>
+              <Container>
               <Row style={{paddingTop: window.innerHeight*0.25}}>
                 <Col></Col>
                 {countries.map((c)=>
@@ -65,13 +64,13 @@ class App extends React.Component {
                 )}
                 <Col></Col>
               </Row>
-              </>
+              </Container>
               :null
             }
             {this.state.tab==2?
               <>
                 <SecondaryScreen country={this.state.country}></SecondaryScreen>
-                <Button variant="primary" onClick={()=>this.setState({tab:0})}>Go back</Button>
+                <Button variant="primary"  style={{margin:20}} onClick={()=>this.setState({tab:0})}>Go back</Button>
               </>
               :null
             }  

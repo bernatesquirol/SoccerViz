@@ -10,14 +10,17 @@ const dict={
 
 
 function Display(p){
-    return <Col md={4}>
+    return <Col md={4} style={{textAlign:'center'}}>
         <Row>
-            <Col md={10}>{p.data.Value.toFixed(1)}</Col>
-            <Col md={2}>{p.data.isAboveMean?"🟢":"🔴"}</Col>
+        <Col>{p.id}</Col>
         </Row>
         <Row>
-        {p.id}
+            <Col style={{padding:0}} md={2}></Col>
+            <Col style={{padding:0}} md={6}><h2 style={{textAlign:'right'}}>{p.data.Value.toFixed(1)}</h2></Col>
+            <Col style={{padding:0}} md={2}>{(p.data.isAboveMean?"🟢":"🔴")}</Col>
+            <Col style={{padding:0}} md={2}></Col>
         </Row>
+        
     </Col>
 }
 
