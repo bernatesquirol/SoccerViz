@@ -26,7 +26,8 @@ europe_spec = {
         "color": {
           "type": "quantitative",
           "field": "properties.num_players",
-          "title": "Players"
+          "title": "Players",
+          "scale": {"scheme": "teals"}
         },
         "tooltip": [
           {
@@ -48,18 +49,21 @@ europe_spec = {
       "data": {
         "name": "data-b8c3b2c83acdef47182ba8b9cc4f7587"
       },
-      "mark": "bar",
+      "mark": {"type": "bar", "color": "#4da5a4"},
       "encoding": {
         "x": {
           "type": "quantitative",
-          "field": "number"
+          "field": "number",
+          "title": "Number of players"
         },
         "y": {
           "type": "ordinal",
           "field": "from",
           "title": ""
         }
-      }
+      },
+      "width": 500,
+      "height": 100
     }
   ],
   "resolve": {

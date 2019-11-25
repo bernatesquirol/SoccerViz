@@ -3,7 +3,6 @@ import geopandas as gpd
 import pandas as pd
 import numpy as np
 
-# import gpdvega
 players = pd.read_json('players.json').set_index('wyId')
 
 # alt.renderers.enable('notebook')
@@ -47,7 +46,7 @@ data = alt.InlineData(values=europe.__geo_interface__,  # geopandas to geojson
                       format=alt.DataFormat(property='features', type='json'))
 
 selection = alt.selection_interval(bind='scales')
-alt.data_transformers.enable('json')
+# alt.data_transformers.enable('json')
 map = alt.Chart(data).mark_geoshape(
     # x=-150.2,
     # x2=-200,
@@ -55,11 +54,13 @@ map = alt.Chart(data).mark_geoshape(
     clip=True,
     stroke='black'
 ).encode(
-    color='properties.num_players:Q',  # GeoDataFrame fields are accessible through a "properties" object
+    # color='properties.num_players:Q',  # GeoDataFrame fields are accessible through a "properties" object
+    # color=alt.Color('properties.num_players:Q', scale=alt.Scale(domain=[0, 500], range=['#ffffff', '#11efff'])),
+    color=alt.Color('properties.num_players:Q', scale=alt.Scale(scheme='teals')),
     tooltip=['properties.name:N', 'properties.num_players:Q']
 ).properties(
-    width=500,
-    height=500
+    width=250,
+    height=300
 )
 
 
@@ -71,14 +72,16 @@ rest_n = all_n - eu_n
 df_all = pd.DataFrame({'number': [spa_n, rest_eu_n, rest_n],
                      'from': ['Spain', 'Rest EU', 'Rest of the world']})
 # europe[europe.name == 'Spain'].index[0]
-bar = alt.Chart(df_all).mark_bar().encode(
+bar = alt.Chart(df_all).mark_bar(color='#4da5a4').encode(
     x='number:Q',
     y='from:O'
+).properties(
+    width=250
 )
-bar.serve()
-# alt.vconcat(
-#     map, bar
-# ).resolve_legend(
-#     color='independent',
-#     size='independent'
-# ).serve()
+# bar.serve()
+alt.vconcat(
+    map, bar
+).resolve_legend(
+    color='independent',
+    size='independent'
+).serve()

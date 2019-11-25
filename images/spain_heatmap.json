@@ -3,7 +3,11 @@
   "data": {"name": "data-3d6e131af063666ca0caf556a9316564"},
   "mark": "rect",
   "encoding": {
-    "color": {"type": "quantitative", "field": "Changes"},
+    "color": {
+      "type": "quantitative",
+      "field": "Changes",
+      "scale": {"scheme": "purples"}
+    },
     "tooltip": {"type": "quantitative", "field": "Changes"},
     "x": {"type": "ordinal", "field": "Round"},
     "y": {"type": "ordinal", "field": "Position"}
