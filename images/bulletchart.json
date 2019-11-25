@@ -1,0 +1,91 @@
+{
+  "config": {
+    "view": {"width": 400, "height": 300},
+    "mark": {"tooltip": null},
+    "scale": {"rangeStep": 40},
+    "tick": {"bandSize": 100}
+  },
+  "vconcat": [
+    {
+      "layer": [
+        {
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "type": "quantitative",
+              "axis": {"title": "Changes in the lead per 90"},
+              "field": "lead"
+            }
+          },
+          "height": 100,
+          "width": 500
+        },
+        {
+          "mark": {"type": "tick", "color": "red", "thickness": 2},
+          "encoding": {"x": {"type": "quantitative", "field": "Average"}},
+          "height": 100,
+          "width": 500
+        }
+      ],
+      "data": {"name": "data-57b0f8582903fb86a6285e79c9616077"}
+    },
+    {
+      "layer": [
+        {
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "type": "quantitative",
+              "axis": {"title": "Last minutes goals per 90"},
+              "field": "lastmin"
+            }
+          },
+          "height": 100,
+          "width": 500
+        },
+        {
+          "mark": {"type": "tick", "color": "red", "thickness": 2},
+          "encoding": {"x": {"type": "quantitative", "field": "Average"}},
+          "height": 100,
+          "width": 500
+        }
+      ],
+      "data": {"name": "data-64caec55755ddaa70f6db430c7a66b6a"}
+    },
+    {
+      "layer": [
+        {
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "type": "quantitative",
+              "axis": {"title": "Percentage of goalless draws"},
+              "field": "goalless"
+            }
+          },
+          "height": 100,
+          "width": 500
+        },
+        {
+          "mark": {"type": "tick", "color": "red", "thickness": 2},
+          "encoding": {"x": {"type": "quantitative", "field": "Average"}},
+          "height": 100,
+          "width": 500
+        }
+      ],
+      "data": {"name": "data-36c4a691dfd0d613a92af868c079b5ad"}
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json",
+  "datasets": {
+    "data-57b0f8582903fb86a6285e79c9616077": [
+      {"lead": 5.33, "Average": 5.357999999999999}
+    ],
+    "data-64caec55755ddaa70f6db430c7a66b6a": [
+      {"lastmin": 0.381, "Average": 0.41459999999999997}
+    ],
+    "data-36c4a691dfd0d613a92af868c079b5ad": [
+      {"goalless": 7.359999999999999, "Average": 7.103999999999999}
+    ]
+  }
+}
