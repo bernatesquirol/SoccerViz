@@ -80,7 +80,8 @@ source = pd.DataFrame({'Round': x.flat,
 alt.Chart(source).mark_rect().encode(
     x='Round:O',
     y='Position:O',
-    color='Changes:Q',
+    # color='Changes:Q',
+    color=alt.Color('Changes:Q', scale=alt.Scale(scheme='purples')),
     tooltip='Changes:Q'
 ).properties(
     width=500,

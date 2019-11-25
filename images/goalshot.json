@@ -1,126 +1,78 @@
-goalshot = {
+{
   "config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}},
   "layer": [
     {
-      "mark": {"type": "bar", "color": "#4575b4"},
+      "mark": {"type": "bar", "color": "#5b9fc9"},
       "encoding": {
-        "x": {
-          "type": "quantitative",
-          "axis": {"title": "Shots and goals"},
-          "field": "Shots"
-        },
-        "y": {
-          "type": "nominal",
-          "field": "Country",
-          "sort": ["England", "France", "Germany", "Spain", "Italy"]
-        }
+        "x": {"type": "nominal", "field": "Country"},
+        "y": {"type": "quantitative", "field": "Shots"}
       },
-      "height": 300,
-      "transform": [
-        {"calculate": "datum.Goals-datum.GoalsStd", "as": "yGoalsMin"},
-        {"calculate": "datum.Goals+datum.GoalsStd", "as": "yGoalsMax"},
-        {"calculate": "datum.Shots-datum.ShotsStd", "as": "yShotsMin"},
-        {"calculate": "datum.Shots+datum.ShotsStd", "as": "yShotsMax"}
-      ],
-      "width": 500
+      "height": 500,
+      "width": 250
     },
     {
-      "mark": {"type": "bar", "color": "#91bfdb"},
+      "mark": {"type": "bar", "color": "#056199"},
       "encoding": {
-        "x": {"type": "quantitative", "field": "Goals"},
+        "x": {"type": "nominal", "field": "Country"},
         "y": {
-          "type": "nominal",
-          "field": "Country",
-          "sort": ["England", "France", "Germany", "Spain", "Italy"]
-        }
-      },
-      "height": 300,
-      "transform": [
-        {"calculate": "datum.Goals-datum.GoalsStd", "as": "yGoalsMin"},
-        {"calculate": "datum.Goals+datum.GoalsStd", "as": "yGoalsMax"},
-        {"calculate": "datum.Shots-datum.ShotsStd", "as": "yShotsMin"},
-        {"calculate": "datum.Shots+datum.ShotsStd", "as": "yShotsMax"}
-      ],
-      "width": 500
-    },
-    {
-      "mark": "errorbar",
-      "encoding": {
-        "x": {
           "type": "quantitative",
-          "axis": {"title": ""},
-          "field": "yGoalsMin"
-        },
-        "x2": {"field": "yGoalsMax"},
-        "y": {
-          "type": "nominal",
-          "field": "Country",
-          "sort": ["England", "France", "Germany", "Spain", "Italy"]
+          "axis": {"title": "Goals and Shots per 90"},
+          "field": "Goals"
         }
       },
-      "height": 300,
-      "transform": [
-        {"calculate": "datum.Goals-datum.GoalsStd", "as": "yGoalsMin"},
-        {"calculate": "datum.Goals+datum.GoalsStd", "as": "yGoalsMax"},
-        {"calculate": "datum.Shots-datum.ShotsStd", "as": "yShotsMin"},
-        {"calculate": "datum.Shots+datum.ShotsStd", "as": "yShotsMax"}
-      ],
-      "width": 500
-    },
-    {
-      "mark": "errorbar",
-      "encoding": {
-        "x": {
-          "type": "quantitative",
-          "axis": {"title": ""},
-          "field": "yShotsMin"
-        },
-        "x2": {"field": "yShotsMax"},
-        "y": {
-          "type": "nominal",
-          "field": "Country",
-          "sort": ["England", "France", "Germany", "Spain", "Italy"]
-        }
-      },
-      "height": 300,
-      "transform": [
-        {"calculate": "datum.Goals-datum.GoalsStd", "as": "yGoalsMin"},
-        {"calculate": "datum.Goals+datum.GoalsStd", "as": "yGoalsMax"},
-        {"calculate": "datum.Shots-datum.ShotsStd", "as": "yShotsMin"},
-        {"calculate": "datum.Shots+datum.ShotsStd", "as": "yShotsMax"}
-      ],
-      "width": 500
+      "height": 500,
+      "width": 250
     }
   ],
-  "data": {"name": "data-52da880a1e30468033fa1673c033f373"},
+  "data": {"name": "data-af864ca73590e34c419628001b0abf47"},
   "resolve": {"scale": {"color": "independent"}},
   "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json",
   "datasets": {
-    "data-52da880a1e30468033fa1673c033f373": [
+    "data-af864ca73590e34c419628001b0abf47": [
       {
         "Country": "England",
         "Goals": 2.6789473684210527,
-        "Shots": 23.92105263157895
+        "Shots": 23.775933609958507,
+        "Freekicks": 1.095890410958904,
+        "Penalties": 1.4522821576763485,
+        "Saves": 5.63395225464191,
+        "Fouls": 21.41578947368421
       },
       {
         "Country": "France",
         "Goals": 2.718421052631579,
-        "Shots": 24.009708737864077
+        "Shots": 23.838028169014084,
+        "Freekicks": 1.1517857142857142,
+        "Penalties": 1.8345070422535212,
+        "Saves": 5.406914893617022,
+        "Fouls": 26.847368421052632
       },
       {
         "Country": "Germany",
         "Goals": 2.7941176470588234,
-        "Shots": 24.35211267605634
+        "Shots": 24.268817204301076,
+        "Freekicks": 1.1772151898734178,
+        "Penalties": 1.60752688172043,
+        "Saves": 5.970394736842105,
+        "Fouls": 28.287581699346404
       },
       {
         "Country": "Spain",
         "Goals": 2.694736842105263,
-        "Shots": 22.725806451612904
+        "Shots": 22.535971223021583,
+        "Freekicks": 1.13,
+        "Penalties": 1.629496402877698,
+        "Saves": 5.63129973474801,
+        "Fouls": 28.855263157894736
       },
       {
         "Country": "Italy",
         "Goals": 2.6763157894736844,
-        "Shots": 24.693602693602692
+        "Shots": 24.580152671755727,
+        "Freekicks": 1.1559633027522935,
+        "Penalties": 1.583969465648855,
+        "Saves": 5.562334217506631,
+        "Fouls": 26.3
       }
     ]
   }
