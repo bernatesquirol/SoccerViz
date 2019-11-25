@@ -5,6 +5,7 @@ import VegaComponent from './components/VegaComponent';
 import {Container,Row,Col} from 'react-bootstrap'
 import Grid from './components/Grid'
 import pie from './images/pie.jpg'
+import pie2 from './images/pie2.jpg'
 export default ()=>(
     <Container>
         <Row>
