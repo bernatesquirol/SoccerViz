@@ -1,0 +1,4511 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "autosize": "pad",
+  "padding": 5,
+  "width": 500,
+  "height": 300,
+  "style": "cell",
+  "data": [
+    {
+      "name": "data-226bcae9ee26470e77b48888b5b7c6a0",
+      "values": [
+        {
+          "height": 185,
+          "weight": 74,
+          "wyId": 712,
+          "goalScored": 0,
+          "matchId": 2057975.5,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.010700000000000001,
+          "playerankScore_y": 0.010700000000000001
+        },
+        {
+          "height": 185,
+          "weight": 79,
+          "wyId": 696,
+          "goalScored": 0.12,
+          "matchId": 2420611.52,
+          "minutesPlayed": 58.36,
+          "playerankScore_x": 0.010352000000000002,
+          "playerankScore_y": 0.010352000000000002
+        },
+        {
+          "height": 175,
+          "weight": 71,
+          "wyId": 683,
+          "goalScored": 0.02857142857142857,
+          "matchId": 2565737.1142857145,
+          "minutesPlayed": 89.28571428571429,
+          "playerankScore_x": -0.010857142857142859,
+          "playerankScore_y": -0.010857142857142857
+        },
+        {
+          "height": 180,
+          "weight": 75,
+          "wyId": 692,
+          "goalScored": 0,
+          "matchId": 2565838,
+          "minutesPlayed": 41.5,
+          "playerankScore_x": -0.002,
+          "playerankScore_y": -0.002
+        },
+        {
+          "height": 170,
+          "weight": 68,
+          "wyId": 676,
+          "goalScored": 0.04878048780487805,
+          "matchId": 2431190.3902439023,
+          "minutesPlayed": 85,
+          "playerankScore_x": 0.01066829268292683,
+          "playerankScore_y": 0.010668292682926838
+        },
+        {
+          "height": 183,
+          "weight": 76,
+          "wyId": 684,
+          "goalScored": 0,
+          "matchId": 2565717.8214285714,
+          "minutesPlayed": 84.32142857142857,
+          "playerankScore_x": 0.006735714285714288,
+          "playerankScore_y": 0.0067357142857142885
+        },
+        {
+          "height": 185,
+          "weight": 78,
+          "wyId": 682,
+          "goalScored": 0.07407407407407407,
+          "matchId": 2565725.888888889,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.008629629629629631,
+          "playerankScore_y": 0.008629629629629628
+        },
+        {
+          "height": 174,
+          "weight": 71,
+          "wyId": 680,
+          "goalScored": 0.08823529411764706,
+          "matchId": 2520936.882352941,
+          "minutesPlayed": 77,
+          "playerankScore_x": -0.002091176470588236,
+          "playerankScore_y": -0.0020911764705882356
+        },
+        {
+          "height": 180,
+          "weight": 74,
+          "wyId": 687,
+          "goalScored": 0.11764705882352941,
+          "matchId": 2565740.7352941176,
+          "minutesPlayed": 56.411764705882355,
+          "playerankScore_x": 0.005364705882352937,
+          "playerankScore_y": 0.005364705882352937
+        },
+        {
+          "height": 182,
+          "weight": 74,
+          "wyId": 674,
+          "goalScored": 0.20588235294117646,
+          "matchId": 2565730.382352941,
+          "minutesPlayed": 88.55882352941177,
+          "playerankScore_x": -0.004114705882352943,
+          "playerankScore_y": -0.0041147058823529405
+        },
+        {
+          "height": 178,
+          "weight": 75,
+          "wyId": 756,
+          "goalScored": 0.3055555555555556,
+          "matchId": 2565736.611111111,
+          "minutesPlayed": 83.55555555555556,
+          "playerankScore_x": 0.013047222222222219,
+          "playerankScore_y": 0.013047222222222214
+        },
+        {
+          "height": 182,
+          "weight": 78,
+          "wyId": 678,
+          "goalScored": 0.2571428571428571,
+          "matchId": 2491032.685714286,
+          "minutesPlayed": 64.91428571428571,
+          "playerankScore_x": 0.009668571428571427,
+          "playerankScore_y": 0.00966857142857142
+        },
+        {
+          "height": 175,
+          "weight": 71,
+          "wyId": 676,
+          "goalScored": 0.36363636363636365,
+          "matchId": 2565725.1818181816,
+          "minutesPlayed": 57.63636363636363,
+          "playerankScore_x": 0.024418181818181818,
+          "playerankScore_y": 0.024418181818181815
+        },
+        {
+          "height": 163,
+          "weight": 63,
+          "wyId": 691,
+          "goalScored": 0.06896551724137931,
+          "matchId": 2565723.4827586208,
+          "minutesPlayed": 59.724137931034484,
+          "playerankScore_x": -0.006717241379310344,
+          "playerankScore_y": -0.006717241379310345
+        },
+        {
+          "height": 180,
+          "weight": 76,
+          "wyId": 675,
+          "goalScored": 0.14285714285714285,
+          "matchId": 2529457.714285714,
+          "minutesPlayed": 79.64285714285714,
+          "playerankScore_x": 0.005810714285714286,
+          "playerankScore_y": 0.005810714285714283
+        },
+        {
+          "height": 184,
+          "weight": 82,
+          "wyId": 675,
+          "goalScored": 0.11764705882352941,
+          "matchId": 2403483.7647058824,
+          "minutesPlayed": 89.58823529411765,
+          "playerankScore_x": 0.014429411764705885,
+          "playerankScore_y": 0.014429411764705897
+        },
+        {
+          "height": 191,
+          "weight": 81,
+          "wyId": 675,
+          "goalScored": 0.029411764705882353,
+          "matchId": 2461208.9411764704,
+          "minutesPlayed": 86.88235294117646,
+          "playerankScore_x": 0.010755882352941178,
+          "playerankScore_y": 0.010755882352941172
+        },
+        {
+          "height": 174,
+          "weight": 80,
+          "wyId": 675,
+          "goalScored": 0.0625,
+          "matchId": 2502263.15625,
+          "minutesPlayed": 79.5,
+          "playerankScore_x": 0.0030968749999999976,
+          "playerankScore_y": 0.0030968749999999985
+        },
+        {
+          "height": 180,
+          "weight": 78,
+          "wyId": 691,
+          "goalScored": 0.045454545454545456,
+          "matchId": 2565747.9545454546,
+          "minutesPlayed": 55.04545454545455,
+          "playerankScore_x": -0.007831818181818183,
+          "playerankScore_y": -0.007831818181818188
+        },
+        {
+          "height": 185,
+          "weight": 81,
+          "wyId": 675,
+          "goalScored": 0.13333333333333333,
+          "matchId": 2565761.8666666667,
+          "minutesPlayed": 70.8,
+          "playerankScore_x": 0.02360333333333334,
+          "playerankScore_y": 0.02360333333333334
+        },
+        {
+          "height": 180,
+          "weight": 69,
+          "wyId": 677,
+          "goalScored": 0,
+          "matchId": 2565736.2,
+          "minutesPlayed": 87.4,
+          "playerankScore_x": 0.00026000000000000003,
+          "playerankScore_y": 0.00025999999999999987
+        },
+        {
+          "height": 184,
+          "weight": 73,
+          "wyId": 684,
+          "goalScored": 0.10714285714285714,
+          "matchId": 2544825.4285714286,
+          "minutesPlayed": 79.53571428571429,
+          "playerankScore_x": 0.021835714285714285,
+          "playerankScore_y": 0.021835714285714288
+        },
+        {
+          "height": 186,
+          "weight": 89,
+          "wyId": 692,
+          "goalScored": 0,
+          "matchId": 2565643.25,
+          "minutesPlayed": 73.66666666666667,
+          "playerankScore_x": 0.006533333333333335,
+          "playerankScore_y": 0.006533333333333335
+        },
+        {
+          "height": 185,
+          "weight": 77,
+          "wyId": 692,
+          "goalScored": 0.03333333333333333,
+          "matchId": 2565759.7333333334,
+          "minutesPlayed": 88.63333333333334,
+          "playerankScore_x": 0.012916666666666665,
+          "playerankScore_y": 0.01291666666666667
+        },
+        {
+          "height": 175,
+          "weight": 73,
+          "wyId": 674,
+          "goalScored": 0,
+          "matchId": 2565717.28,
+          "minutesPlayed": 86.08,
+          "playerankScore_x": 0.005380000000000001,
+          "playerankScore_y": 0.005379999999999999
+        },
+        {
+          "height": 179,
+          "weight": 72,
+          "wyId": 756,
+          "goalScored": 0,
+          "matchId": 2565670,
+          "minutesPlayed": 86.84615384615384,
+          "playerankScore_x": 0.008238461538461542,
+          "playerankScore_y": 0.008238461538461542
+        },
+        {
+          "height": 194,
+          "weight": 85,
+          "wyId": 676,
+          "goalScored": 0.07894736842105263,
+          "matchId": 2420577.8421052634,
+          "minutesPlayed": 89.02631578947368,
+          "playerankScore_x": 0.01551578947368421,
+          "playerankScore_y": 0.015515789473684214
+        },
+        {
+          "height": 189,
+          "weight": 76,
+          "wyId": 676,
+          "goalScored": 0.02564102564102564,
+          "matchId": 2424282.3333333335,
+          "minutesPlayed": 85.8974358974359,
+          "playerankScore_x": 0.013602564102564104,
+          "playerankScore_y": 0.013602564102564104
+        },
+        {
+          "height": 178,
+          "weight": 68,
+          "wyId": 676,
+          "goalScored": 0.03333333333333333,
+          "matchId": 2565728.8,
+          "minutesPlayed": 76.56666666666666,
+          "playerankScore_x": 0.014586666666666666,
+          "playerankScore_y": 0.014586666666666677
+        },
+        {
+          "height": 178,
+          "weight": 72,
+          "wyId": 684,
+          "goalScored": 0.12903225806451613,
+          "matchId": 2565733.4516129033,
+          "minutesPlayed": 53.83870967741935,
+          "playerankScore_x": 0.007796774193548389,
+          "playerankScore_y": 0.007796774193548385
+        },
+        {
+          "height": 170,
+          "weight": 72,
+          "wyId": 676,
+          "goalScored": 0.875,
+          "matchId": 2514955.6,
+          "minutesPlayed": 83.9,
+          "playerankScore_x": 0.043685,
+          "playerankScore_y": 0.04368499999999998
+        },
+        {
+          "height": 169,
+          "weight": 67,
+          "wyId": 684,
+          "goalScored": 0.06060606060606061,
+          "matchId": 2504171.0303030303,
+          "minutesPlayed": 77.9090909090909,
+          "playerankScore_x": 0.008106060606060606,
+          "playerankScore_y": 0.00810606060606061
+        },
+        {
+          "height": 181,
+          "weight": 68,
+          "wyId": 756,
+          "goalScored": 0,
+          "matchId": 2565766.1153846155,
+          "minutesPlayed": 88.34615384615384,
+          "playerankScore_x": 0.007376923076923076,
+          "playerankScore_y": 0.007376923076923078
+        },
+        {
+          "height": 187,
+          "weight": 73,
+          "wyId": 678,
+          "goalScored": 0,
+          "matchId": 2565753.888888889,
+          "minutesPlayed": 78.94444444444444,
+          "playerankScore_x": 0.0045000000000000005,
+          "playerankScore_y": 0.004500000000000002
+        },
+        {
+          "height": 187,
+          "weight": 79,
+          "wyId": 678,
+          "goalScored": 0.038461538461538464,
+          "matchId": 2565732.5384615385,
+          "minutesPlayed": 82.96153846153847,
+          "playerankScore_x": 0.0043692307692307685,
+          "playerankScore_y": 0.004369230769230768
+        },
+        {
+          "height": 187,
+          "weight": 77,
+          "wyId": 678,
+          "goalScored": 0,
+          "matchId": 2565744,
+          "minutesPlayed": 63.43333333333333,
+          "playerankScore_x": -0.00568,
+          "playerankScore_y": -0.005679999999999999
+        },
+        {
+          "height": 179,
+          "weight": 66,
+          "wyId": 678,
+          "goalScored": 0.0967741935483871,
+          "matchId": 2565729.2258064514,
+          "minutesPlayed": 72.38709677419355,
+          "playerankScore_x": -0.003990322580645163,
+          "playerankScore_y": -0.003990322580645162
+        },
+        {
+          "height": 182,
+          "weight": 78,
+          "wyId": 678,
+          "goalScored": 0.047619047619047616,
+          "matchId": 2565789.1904761903,
+          "minutesPlayed": 79.04761904761905,
+          "playerankScore_x": 0.0000999999999999999,
+          "playerankScore_y": 0.00009999999999999987
+        },
+        {
+          "height": 177,
+          "weight": 72,
+          "wyId": 696,
+          "goalScored": 0.21212121212121213,
+          "matchId": 2565739.9696969697,
+          "minutesPlayed": 70.06060606060606,
+          "playerankScore_x": -0.004112121212121212,
+          "playerankScore_y": -0.004112121212121209
+        },
+        {
+          "height": 169,
+          "weight": 63,
+          "wyId": 678,
+          "goalScored": 0.2857142857142857,
+          "matchId": 2565753.4285714286,
+          "minutesPlayed": 55.42857142857143,
+          "playerankScore_x": 0.02072857142857143,
+          "playerankScore_y": 0.02072857142857143
+        },
+        {
+          "height": 187,
+          "weight": 79,
+          "wyId": 679,
+          "goalScored": 0,
+          "matchId": 2493199.257142857,
+          "minutesPlayed": 85.8,
+          "playerankScore_x": 0.013148571428571426,
+          "playerankScore_y": 0.013148571428571414
+        },
+        {
+          "height": 182,
+          "weight": 73,
+          "wyId": 679,
+          "goalScored": 0.047619047619047616,
+          "matchId": 2517370.1904761903,
+          "minutesPlayed": 87,
+          "playerankScore_x": 0.006338095238095236,
+          "playerankScore_y": 0.006338095238095238
+        },
+        {
+          "height": 181,
+          "weight": 74,
+          "wyId": 679,
+          "goalScored": 0,
+          "matchId": 2565738.242424242,
+          "minutesPlayed": 70.84848484848484,
+          "playerankScore_x": -0.004357575757575758,
+          "playerankScore_y": -0.004357575757575755
+        },
+        {
+          "height": 177,
+          "weight": 73,
+          "wyId": 679,
+          "goalScored": 0.10256410256410256,
+          "matchId": 2504344.794871795,
+          "minutesPlayed": 77.23076923076923,
+          "playerankScore_x": 0.0012358974358974383,
+          "playerankScore_y": 0.0012358974358974376
+        },
+        {
+          "height": 180,
+          "weight": 71,
+          "wyId": 679,
+          "goalScored": 0,
+          "matchId": 2399772.095238095,
+          "minutesPlayed": 79.42857142857143,
+          "playerankScore_x": -0.004628571428571428,
+          "playerankScore_y": -0.004628571428571427
+        },
+        {
+          "height": 183,
+          "weight": 73,
+          "wyId": 677,
+          "goalScored": 0.3,
+          "matchId": 2565757.433333333,
+          "minutesPlayed": 78.23333333333333,
+          "playerankScore_x": 0.013313333333333332,
+          "playerankScore_y": 0.01331333333333334
+        },
+        {
+          "height": 177,
+          "weight": 74,
+          "wyId": 695,
+          "goalScored": 0.1875,
+          "matchId": 2565826.9375,
+          "minutesPlayed": 81.25,
+          "playerankScore_x": 0.0011812499999999987,
+          "playerankScore_y": 0.0011812499999999985
+        },
+        {
+          "height": 178,
+          "weight": 68,
+          "wyId": 695,
+          "goalScored": 0,
+          "matchId": 2565771.782608696,
+          "minutesPlayed": 87.8695652173913,
+          "playerankScore_x": -0.002447826086956521,
+          "playerankScore_y": -0.0024478260869565203
+        },
+        {
+          "height": 183,
+          "weight": 75,
+          "wyId": 696,
+          "goalScored": 0.04,
+          "matchId": 2565705.28,
+          "minutesPlayed": 86.68,
+          "playerankScore_x": 0.006460000000000001,
+          "playerankScore_y": 0.006460000000000002
+        },
+        {
+          "height": 186,
+          "weight": 86,
+          "wyId": 714,
+          "goalScored": 0.1,
+          "matchId": 2565650.85,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.01859,
+          "playerankScore_y": 0.01859
+        },
+        {
+          "height": 179,
+          "weight": 70,
+          "wyId": 695,
+          "goalScored": 0.029411764705882353,
+          "matchId": 2565732.5588235296,
+          "minutesPlayed": 80.41176470588235,
+          "playerankScore_x": 0.002685294117647058,
+          "playerankScore_y": 0.002685294117647059
+        },
+        {
+          "height": 172,
+          "weight": 60,
+          "wyId": 680,
+          "goalScored": 0.041666666666666664,
+          "matchId": 2565707.5833333335,
+          "minutesPlayed": 73.125,
+          "playerankScore_x": 0.002495833333333332,
+          "playerankScore_y": 0.002495833333333331
+        },
+        {
+          "height": 184,
+          "weight": 78,
+          "wyId": 676,
+          "goalScored": 0.06521739130434782,
+          "matchId": 2412699.4782608696,
+          "minutesPlayed": 83.80434782608695,
+          "playerankScore_x": 0.012704347826086962,
+          "playerankScore_y": 0.012704347826086971
+        },
+        {
+          "height": 185,
+          "weight": 78,
+          "wyId": 695,
+          "goalScored": 0.03571428571428571,
+          "matchId": 2565708.4285714286,
+          "minutesPlayed": 86.25,
+          "playerankScore_x": 0.006396428571428571,
+          "playerankScore_y": 0.006396428571428573
+        },
+        {
+          "height": 184,
+          "weight": 83,
+          "wyId": 678,
+          "goalScored": 0.29411764705882354,
+          "matchId": 2565720.088235294,
+          "minutesPlayed": 77.47058823529412,
+          "playerankScore_x": 0.011361764705882352,
+          "playerankScore_y": 0.01136176470588235
+        },
+        {
+          "height": 186,
+          "weight": 80,
+          "wyId": 756,
+          "goalScored": 0.15384615384615385,
+          "matchId": 2565781.846153846,
+          "minutesPlayed": 68.84615384615384,
+          "playerankScore_x": 0.009961538461538464,
+          "playerankScore_y": 0.009961538461538464
+        },
+        {
+          "height": 182,
+          "weight": 74,
+          "wyId": 682,
+          "goalScored": 0.0625,
+          "matchId": 2565745.96875,
+          "minutesPlayed": 87.65625,
+          "playerankScore_x": 0.00995,
+          "playerankScore_y": 0.00995000000000001
+        },
+        {
+          "height": 171,
+          "weight": 62,
+          "wyId": 682,
+          "goalScored": 0,
+          "matchId": 2565724.3333333335,
+          "minutesPlayed": 85.43333333333334,
+          "playerankScore_x": -0.0032800000000000004,
+          "playerankScore_y": -0.0032800000000000012
+        },
+        {
+          "height": 171,
+          "weight": 72,
+          "wyId": 696,
+          "goalScored": 0,
+          "matchId": 2565744.411764706,
+          "minutesPlayed": 63.76470588235294,
+          "playerankScore_x": -0.002576470588235295,
+          "playerankScore_y": -0.0025764705882352955
+        },
+        {
+          "height": 180,
+          "weight": 71,
+          "wyId": 696,
+          "goalScored": 0,
+          "matchId": 2565735.25,
+          "minutesPlayed": 41.583333333333336,
+          "playerankScore_x": -0.0010250000000000003,
+          "playerankScore_y": -0.001025
+        },
+        {
+          "height": 184,
+          "weight": 73,
+          "wyId": 682,
+          "goalScored": 0,
+          "matchId": 1694411.5,
+          "minutesPlayed": 28,
+          "playerankScore_x": 0.01045,
+          "playerankScore_y": 0.01045
+        },
+        {
+          "height": 178,
+          "weight": 71,
+          "wyId": 682,
+          "goalScored": 0.09090909090909091,
+          "matchId": 2565729.515151515,
+          "minutesPlayed": 82.24242424242425,
+          "playerankScore_x": 0.0028,
+          "playerankScore_y": 0.0027999999999999982
+        },
+        {
+          "height": 185,
+          "weight": 78,
+          "wyId": 691,
+          "goalScored": 0,
+          "matchId": 2565617,
+          "minutesPlayed": 51,
+          "playerankScore_x": -0.0045000000000000005,
+          "playerankScore_y": -0.0045000000000000005
+        },
+        {
+          "height": 176,
+          "weight": 79,
+          "wyId": 675,
+          "goalScored": 0.24242424242424243,
+          "matchId": 2504169.212121212,
+          "minutesPlayed": 65.39393939393939,
+          "playerankScore_x": 0.016830303030303025,
+          "playerankScore_y": 0.016830303030303022
+        },
+        {
+          "height": 182,
+          "weight": 79,
+          "wyId": 683,
+          "goalScored": 0.045454545454545456,
+          "matchId": 2565672.6363636362,
+          "minutesPlayed": 84.0909090909091,
+          "playerankScore_x": -0.01595,
+          "playerankScore_y": -0.015950000000000002
+        },
+        {
+          "height": 179,
+          "weight": 75,
+          "wyId": 684,
+          "goalScored": 0.11428571428571428,
+          "matchId": 2565731.8,
+          "minutesPlayed": 71.05714285714286,
+          "playerankScore_x": 0.007897142857142856,
+          "playerankScore_y": 0.007897142857142856
+        },
+        {
+          "height": 169,
+          "weight": 60,
+          "wyId": 698,
+          "goalScored": 0.0625,
+          "matchId": 2565749.125,
+          "minutesPlayed": 76.96875,
+          "playerankScore_x": 0.002968750000000001,
+          "playerankScore_y": 0.0029687500000000018
+        },
+        {
+          "height": 172,
+          "weight": 69,
+          "wyId": 687,
+          "goalScored": 0.3076923076923077,
+          "matchId": 2565745.076923077,
+          "minutesPlayed": 55.42307692307692,
+          "playerankScore_x": 0.011449999999999997,
+          "playerankScore_y": 0.011449999999999997
+        },
+        {
+          "height": 177,
+          "weight": 76,
+          "wyId": 678,
+          "goalScored": 0,
+          "matchId": 2565763.238095238,
+          "minutesPlayed": 52.61904761904762,
+          "playerankScore_x": -0.014580952380952382,
+          "playerankScore_y": -0.014580952380952382
+        },
+        {
+          "height": 174,
+          "weight": 72,
+          "wyId": 684,
+          "goalScored": 0,
+          "matchId": 2565835,
+          "minutesPlayed": 49.2,
+          "playerankScore_x": 0.019520000000000003,
+          "playerankScore_y": 0.019520000000000003
+        },
+        {
+          "height": 188,
+          "weight": 72,
+          "wyId": 698,
+          "goalScored": 0.19444444444444445,
+          "matchId": 2565732.861111111,
+          "minutesPlayed": 77.66666666666667,
+          "playerankScore_x": 0.00919166666666667,
+          "playerankScore_y": 0.009191666666666671
+        },
+        {
+          "height": 188,
+          "weight": 82,
+          "wyId": 701,
+          "goalScored": 0.1875,
+          "matchId": 2565741.9375,
+          "minutesPlayed": 81.5625,
+          "playerankScore_x": 0.013618749999999999,
+          "playerankScore_y": 0.013618750000000002
+        },
+        {
+          "height": 181,
+          "weight": 82,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565651.6363636362,
+          "minutesPlayed": 81.36363636363636,
+          "playerankScore_x": 0.008663636363636361,
+          "playerankScore_y": 0.008663636363636361
+        },
+        {
+          "height": 178,
+          "weight": 77,
+          "wyId": 683,
+          "goalScored": 0.15384615384615385,
+          "matchId": 2565750.423076923,
+          "minutesPlayed": 80.3076923076923,
+          "playerankScore_x": -0.0035346153846153843,
+          "playerankScore_y": -0.0035346153846153856
+        },
+        {
+          "height": 185,
+          "weight": 75,
+          "wyId": 696,
+          "goalScored": 0.03333333333333333,
+          "matchId": 2565750.6,
+          "minutesPlayed": 79.7,
+          "playerankScore_x": 0.0037933333333333335,
+          "playerankScore_y": 0.0037933333333333317
+        },
+        {
+          "height": 179,
+          "weight": 72,
+          "wyId": 687,
+          "goalScored": 0,
+          "matchId": 2565790.705882353,
+          "minutesPlayed": 89.94117647058823,
+          "playerankScore_x": -0.0029058823529411774,
+          "playerankScore_y": -0.002905882352941177
+        },
+        {
+          "height": 182,
+          "weight": 79,
+          "wyId": 678,
+          "goalScored": 0.03571428571428571,
+          "matchId": 2565767.785714286,
+          "minutesPlayed": 89.14285714285714,
+          "playerankScore_x": 0.011771428571428573,
+          "playerankScore_y": 0.01177142857142858
+        },
+        {
+          "height": 180,
+          "weight": 74,
+          "wyId": 698,
+          "goalScored": 0.2222222222222222,
+          "matchId": 2565648.8333333335,
+          "minutesPlayed": 81.66666666666667,
+          "playerankScore_x": 0.012472222222222225,
+          "playerankScore_y": 0.012472222222222221
+        },
+        {
+          "height": 179,
+          "weight": 75,
+          "wyId": 687,
+          "goalScored": 0.19444444444444445,
+          "matchId": 2565737.027777778,
+          "minutesPlayed": 87.88888888888889,
+          "playerankScore_x": 0.0027472222222222242,
+          "playerankScore_y": 0.002747222222222224
+        },
+        {
+          "height": 181,
+          "weight": 69,
+          "wyId": 687,
+          "goalScored": 0,
+          "matchId": 2565778,
+          "minutesPlayed": 43,
+          "playerankScore_x": 0.00548,
+          "playerankScore_y": 0.00548
+        },
+        {
+          "height": 186,
+          "weight": 79,
+          "wyId": 687,
+          "goalScored": 0,
+          "matchId": 2565750.7419354836,
+          "minutesPlayed": 72.51612903225806,
+          "playerankScore_x": 0.005474193548387099,
+          "playerankScore_y": 0.005474193548387101
+        },
+        {
+          "height": 187,
+          "weight": 78,
+          "wyId": 687,
+          "goalScored": 0,
+          "matchId": 2565777,
+          "minutesPlayed": 42.75,
+          "playerankScore_x": 0.003950000000000001,
+          "playerankScore_y": 0.003950000000000001
+        },
+        {
+          "height": 175,
+          "weight": 71,
+          "wyId": 679,
+          "goalScored": 0.6304347826086957,
+          "matchId": 2355879.347826087,
+          "minutesPlayed": 80.02173913043478,
+          "playerankScore_x": 0.02220000000000001,
+          "playerankScore_y": 0.0222
+        },
+        {
+          "height": 192,
+          "weight": 84,
+          "wyId": 756,
+          "goalScored": 0,
+          "matchId": 2565731.911764706,
+          "minutesPlayed": 84.3529411764706,
+          "playerankScore_x": 0.012208823529411765,
+          "playerankScore_y": 0.01220882352941177
+        },
+        {
+          "height": 183,
+          "weight": 75,
+          "wyId": 682,
+          "goalScored": 0,
+          "matchId": 2565735.6666666665,
+          "minutesPlayed": 87.87878787878788,
+          "playerankScore_x": 0.009599999999999997,
+          "playerankScore_y": 0.009599999999999997
+        },
+        {
+          "height": 179,
+          "weight": 77,
+          "wyId": 701,
+          "goalScored": 0,
+          "matchId": 2565777,
+          "minutesPlayed": 69.58823529411765,
+          "playerankScore_x": -0.0008058823529411765,
+          "playerankScore_y": -0.0008058823529411767
+        },
+        {
+          "height": 183,
+          "weight": 77,
+          "wyId": 683,
+          "goalScored": 0.10344827586206896,
+          "matchId": 2565735.172413793,
+          "minutesPlayed": 80.72413793103448,
+          "playerankScore_x": 0.002441379310344832,
+          "playerankScore_y": 0.0024413793103448323
+        },
+        {
+          "height": 173,
+          "weight": 66,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2561741.75,
+          "minutesPlayed": 48.333333333333336,
+          "playerankScore_x": 0.001650000000000001,
+          "playerankScore_y": 0.001650000000000001
+        },
+        {
+          "height": 184,
+          "weight": 72,
+          "wyId": 756,
+          "goalScored": 0.6,
+          "matchId": 2536728.342857143,
+          "minutesPlayed": 79.88571428571429,
+          "playerankScore_x": 0.010848571428571428,
+          "playerankScore_y": 0.010848571428571428
+        },
+        {
+          "height": 179,
+          "weight": 70,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565621,
+          "minutesPlayed": 78.4,
+          "playerankScore_x": -0.00398,
+          "playerankScore_y": -0.003979999999999999
+        },
+        {
+          "height": 177,
+          "weight": 75,
+          "wyId": 678,
+          "goalScored": 0,
+          "matchId": 2565711.277777778,
+          "minutesPlayed": 86.38888888888889,
+          "playerankScore_x": 0.002105555555555556,
+          "playerankScore_y": 0.0021055555555555554
+        },
+        {
+          "height": 179,
+          "weight": 67,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565813.8571428573,
+          "minutesPlayed": 26,
+          "playerankScore_x": 0.0025714285714285717,
+          "playerankScore_y": 0.0025714285714285717
+        },
+        {
+          "height": 185,
+          "weight": 83,
+          "wyId": 684,
+          "goalScored": 0,
+          "matchId": 2565765.48,
+          "minutesPlayed": 84.32,
+          "playerankScore_x": 0.009844000000000002,
+          "playerankScore_y": 0.009843999999999999
+        },
+        {
+          "height": 190,
+          "weight": 78,
+          "wyId": 684,
+          "goalScored": 0.2,
+          "matchId": 2565657.8666666667,
+          "minutesPlayed": 83.8,
+          "playerankScore_x": 0.008020000000000005,
+          "playerankScore_y": 0.008020000000000003
+        },
+        {
+          "height": 183,
+          "weight": 80,
+          "wyId": 687,
+          "goalScored": 0.0625,
+          "matchId": 2473808.0625,
+          "minutesPlayed": 76.0625,
+          "playerankScore_x": 0.012524999999999996,
+          "playerankScore_y": 0.012525000000000001
+        },
+        {
+          "height": 174,
+          "weight": 72,
+          "wyId": 691,
+          "goalScored": 0,
+          "matchId": 2565744.8333333335,
+          "minutesPlayed": 82.06666666666666,
+          "playerankScore_x": -0.0024866666666666665,
+          "playerankScore_y": -0.0024866666666666652
+        },
+        {
+          "height": 185,
+          "weight": 75,
+          "wyId": 691,
+          "goalScored": 0,
+          "matchId": 2565819.5833333335,
+          "minutesPlayed": 57.75,
+          "playerankScore_x": -0.004341666666666667,
+          "playerankScore_y": -0.004341666666666667
+        },
+        {
+          "height": 171,
+          "weight": 68,
+          "wyId": 676,
+          "goalScored": 0.4594594594594595,
+          "matchId": 2472240.189189189,
+          "minutesPlayed": 77.13513513513513,
+          "playerankScore_x": 0.02953243243243243,
+          "playerankScore_y": 0.029532432432432427
+        },
+        {
+          "height": 180,
+          "weight": 71,
+          "wyId": 691,
+          "goalScored": 0.02702702702702703,
+          "matchId": 2560466.891891892,
+          "minutesPlayed": 82.4054054054054,
+          "playerankScore_x": -0.0007054054054054047,
+          "playerankScore_y": -0.000705405405405404
+        },
+        {
+          "height": 180,
+          "weight": 76,
+          "wyId": 691,
+          "goalScored": 0,
+          "matchId": 2565784,
+          "minutesPlayed": 79.08333333333333,
+          "playerankScore_x": -0.0022333333333333333,
+          "playerankScore_y": -0.0022333333333333333
+        },
+        {
+          "height": 174,
+          "weight": 72,
+          "wyId": 691,
+          "goalScored": 0.06896551724137931,
+          "matchId": 2565736.896551724,
+          "minutesPlayed": 54.6551724137931,
+          "playerankScore_x": 0.013941379310344826,
+          "playerankScore_y": 0.013941379310344833
+        },
+        {
+          "height": 173,
+          "weight": 69,
+          "wyId": 692,
+          "goalScored": 0,
+          "matchId": 2565736.6470588236,
+          "minutesPlayed": 88.3529411764706,
+          "playerankScore_x": 0.006341176470588233,
+          "playerankScore_y": 0.006341176470588237
+        },
+        {
+          "height": 186,
+          "weight": 84,
+          "wyId": 687,
+          "goalScored": 0,
+          "matchId": 2565780,
+          "minutesPlayed": 89.6,
+          "playerankScore_x": 0.013545000000000001,
+          "playerankScore_y": 0.013545000000000001
+        },
+        {
+          "height": 176,
+          "weight": 67,
+          "wyId": 692,
+          "goalScored": 0.6388888888888888,
+          "matchId": 2523407.0555555555,
+          "minutesPlayed": 83.22222222222223,
+          "playerankScore_x": 0.024413888888888888,
+          "playerankScore_y": 0.024413888888888874
+        },
+        {
+          "height": 168,
+          "weight": 64,
+          "wyId": 701,
+          "goalScored": 0.17647058823529413,
+          "matchId": 2565820.705882353,
+          "minutesPlayed": 70.76470588235294,
+          "playerankScore_x": -0.0009999999999999998,
+          "playerankScore_y": -0.0009999999999999996
+        },
+        {
+          "height": 175,
+          "weight": 64,
+          "wyId": 698,
+          "goalScored": 0,
+          "matchId": 2565747.222222222,
+          "minutesPlayed": 63,
+          "playerankScore_x": -0.0054,
+          "playerankScore_y": -0.005400000000000001
+        },
+        {
+          "height": 174,
+          "weight": 73,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565819.3,
+          "minutesPlayed": 79.2,
+          "playerankScore_x": 0.0003749999999999992,
+          "playerankScore_y": 0.0003749999999999993
+        },
+        {
+          "height": 186,
+          "weight": 79,
+          "wyId": 701,
+          "goalScored": 0.24242424242424243,
+          "matchId": 2565741.6666666665,
+          "minutesPlayed": 74.54545454545455,
+          "playerankScore_x": 0.007318181818181821,
+          "playerankScore_y": 0.007318181818181826
+        },
+        {
+          "height": 186,
+          "weight": 83,
+          "wyId": 683,
+          "goalScored": 0.13333333333333333,
+          "matchId": 2565674.8666666667,
+          "minutesPlayed": 59.86666666666667,
+          "playerankScore_x": 0.00538,
+          "playerankScore_y": 0.00538
+        },
+        {
+          "height": 187,
+          "weight": 80,
+          "wyId": 698,
+          "goalScored": 0,
+          "matchId": 2569221.6666666665,
+          "minutesPlayed": 88.25,
+          "playerankScore_x": 0.0006833333333333332,
+          "playerankScore_y": 0.0006833333333333334
+        },
+        {
+          "height": 182,
+          "weight": 81,
+          "wyId": 692,
+          "goalScored": 0.041666666666666664,
+          "matchId": 2565707.7916666665,
+          "minutesPlayed": 78.16666666666667,
+          "playerankScore_x": 0.010720833333333332,
+          "playerankScore_y": 0.01072083333333334
+        },
+        {
+          "height": 175,
+          "weight": 69,
+          "wyId": 695,
+          "goalScored": 0,
+          "matchId": 2565560,
+          "minutesPlayed": 58.333333333333336,
+          "playerankScore_x": 0.005266666666666667,
+          "playerankScore_y": 0.005266666666666667
+        },
+        {
+          "height": 174,
+          "weight": 72,
+          "wyId": 695,
+          "goalScored": 0,
+          "matchId": 2565737.619047619,
+          "minutesPlayed": 76.04761904761905,
+          "playerankScore_x": -0.003919047619047619,
+          "playerankScore_y": -0.003919047619047618
+        },
+        {
+          "height": 171,
+          "weight": 66,
+          "wyId": 712,
+          "goalScored": 0.06896551724137931,
+          "matchId": 2565744.9310344825,
+          "minutesPlayed": 67.6896551724138,
+          "playerankScore_x": 0.0061379310344827605,
+          "playerankScore_y": 0.006137931034482762
+        },
+        {
+          "height": 179,
+          "weight": 74,
+          "wyId": 695,
+          "goalScored": 0.1875,
+          "matchId": 2565831.375,
+          "minutesPlayed": 58.875,
+          "playerankScore_x": 0.00795,
+          "playerankScore_y": 0.00795
+        },
+        {
+          "height": 188,
+          "weight": 79,
+          "wyId": 714,
+          "goalScored": 0.045454545454545456,
+          "matchId": 2565786.8636363638,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.009268181818181818,
+          "playerankScore_y": 0.009268181818181816
+        },
+        {
+          "height": 172,
+          "weight": 61,
+          "wyId": 698,
+          "goalScored": 0.030303030303030304,
+          "matchId": 2565727.393939394,
+          "minutesPlayed": 88.66666666666667,
+          "playerankScore_x": -0.005281818181818182,
+          "playerankScore_y": -0.0052818181818181835
+        },
+        {
+          "height": 185,
+          "weight": 81,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565818.625,
+          "minutesPlayed": 84.125,
+          "playerankScore_x": 0.0057,
+          "playerankScore_y": 0.0057
+        },
+        {
+          "height": 176,
+          "weight": 70,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565821.3529411764,
+          "minutesPlayed": 65.05882352941177,
+          "playerankScore_x": 0.00021176470588235325,
+          "playerankScore_y": 0.00021176470588235317
+        },
+        {
+          "height": 178,
+          "weight": 73,
+          "wyId": 712,
+          "goalScored": 0,
+          "matchId": 2565743.870967742,
+          "minutesPlayed": 81.29032258064517,
+          "playerankScore_x": -0.0022838709677419355,
+          "playerankScore_y": -0.0022838709677419355
+        },
+        {
+          "height": 183,
+          "weight": 73,
+          "wyId": 701,
+          "goalScored": 0,
+          "matchId": 2565847.25,
+          "minutesPlayed": 77.41666666666667,
+          "playerankScore_x": -0.016166666666666666,
+          "playerankScore_y": -0.016166666666666666
+        },
+        {
+          "height": 178,
+          "weight": 70,
+          "wyId": 680,
+          "goalScored": 0.17647058823529413,
+          "matchId": 2565737.1764705884,
+          "minutesPlayed": 70.76470588235294,
+          "playerankScore_x": 0.010614705882352938,
+          "playerankScore_y": 0.010614705882352932
+        },
+        {
+          "height": 181,
+          "weight": 77,
+          "wyId": 701,
+          "goalScored": 0.16666666666666666,
+          "matchId": 2565639.5,
+          "minutesPlayed": 73.27777777777777,
+          "playerankScore_x": 0.007633333333333331,
+          "playerankScore_y": 0.007633333333333329
+        },
+        {
+          "height": 182,
+          "weight": 78,
+          "wyId": 674,
+          "goalScored": 0,
+          "matchId": 2565741.75,
+          "minutesPlayed": 84.8125,
+          "playerankScore_x": 0.010450000000000001,
+          "playerankScore_y": 0.010450000000000004
+        },
+        {
+          "height": 182,
+          "weight": 76,
+          "wyId": 677,
+          "goalScored": 0,
+          "matchId": 2565717.714285714,
+          "minutesPlayed": 85.07142857142857,
+          "playerankScore_x": 0.0036785714285714295,
+          "playerankScore_y": 0.003678571428571429
+        },
+        {
+          "height": 173,
+          "weight": 70,
+          "wyId": 701,
+          "goalScored": 0,
+          "matchId": 2565715.9677419355,
+          "minutesPlayed": 72.41935483870968,
+          "playerankScore_x": -0.003429032258064516,
+          "playerankScore_y": -0.003429032258064514
+        },
+        {
+          "height": 186,
+          "weight": 78,
+          "wyId": 678,
+          "goalScored": 0.2,
+          "matchId": 2565788.8,
+          "minutesPlayed": 75.2,
+          "playerankScore_x": 0.00592,
+          "playerankScore_y": 0.00592
+        },
+        {
+          "height": 172,
+          "weight": 68,
+          "wyId": 698,
+          "goalScored": 0.41935483870967744,
+          "matchId": 2565762.1612903224,
+          "minutesPlayed": 73.64516129032258,
+          "playerankScore_x": 0.012783870967741934,
+          "playerankScore_y": 0.012783870967741931
+        },
+        {
+          "height": 196,
+          "weight": 93,
+          "wyId": 756,
+          "goalScored": 0.125,
+          "matchId": 2565695.375,
+          "minutesPlayed": 86.25,
+          "playerankScore_x": 0.005112499999999999,
+          "playerankScore_y": 0.005112499999999999
+        },
+        {
+          "height": 177,
+          "weight": 70,
+          "wyId": 676,
+          "goalScored": 0,
+          "matchId": 2565687,
+          "minutesPlayed": 33.61538461538461,
+          "playerankScore_x": 0.009,
+          "playerankScore_y": 0.008999999999999998
+        },
+        {
+          "height": 177,
+          "weight": 75,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565741.806451613,
+          "minutesPlayed": 84.09677419354838,
+          "playerankScore_x": 0.011374193548387097,
+          "playerankScore_y": 0.011374193548387092
+        },
+        {
+          "height": 175,
+          "weight": 72,
+          "wyId": 756,
+          "goalScored": 0.05405405405405406,
+          "matchId": 2565741.081081081,
+          "minutesPlayed": 76.05405405405405,
+          "playerankScore_x": 0.0061783783783783755,
+          "playerankScore_y": 0.006178378378378371
+        },
+        {
+          "height": 183,
+          "weight": 81,
+          "wyId": 691,
+          "goalScored": 0.02702702702702703,
+          "matchId": 2565737.864864865,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.008735135135135135,
+          "playerankScore_y": 0.008735135135135132
+        },
+        {
+          "height": 175,
+          "weight": 64,
+          "wyId": 712,
+          "goalScored": 0,
+          "matchId": 2565735.875,
+          "minutesPlayed": 74.125,
+          "playerankScore_x": -0.0045375,
+          "playerankScore_y": -0.0045375
+        },
+        {
+          "height": 182,
+          "weight": 75,
+          "wyId": 682,
+          "goalScored": 0,
+          "matchId": 2565700.04,
+          "minutesPlayed": 74.56,
+          "playerankScore_x": 0.0027040000000000002,
+          "playerankScore_y": 0.002704
+        },
+        {
+          "height": 188,
+          "weight": 85,
+          "wyId": 679,
+          "goalScored": 0.3157894736842105,
+          "matchId": 2458903.789473684,
+          "minutesPlayed": 73.10526315789474,
+          "playerankScore_x": 0.01676842105263158,
+          "playerankScore_y": 0.01676842105263158
+        },
+        {
+          "height": 168,
+          "weight": 65,
+          "wyId": 698,
+          "goalScored": 0,
+          "matchId": 2565813.875,
+          "minutesPlayed": 19.375,
+          "playerankScore_x": -0.00255,
+          "playerankScore_y": -0.00255
+        },
+        {
+          "height": 183,
+          "weight": 80,
+          "wyId": 714,
+          "goalScored": 0.1,
+          "matchId": 2565796.1,
+          "minutesPlayed": 85.4,
+          "playerankScore_x": 0.008049999999999998,
+          "playerankScore_y": 0.00805
+        },
+        {
+          "height": 185,
+          "weight": 75,
+          "wyId": 696,
+          "goalScored": 0.11764705882352941,
+          "matchId": 2565814.2352941176,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.013294117647058824,
+          "playerankScore_y": 0.013294117647058819
+        },
+        {
+          "height": 190,
+          "weight": 80,
+          "wyId": 756,
+          "goalScored": 0.14705882352941177,
+          "matchId": 2565752.411764706,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.013005882352941178,
+          "playerankScore_y": 0.013005882352941187
+        },
+        {
+          "height": 181,
+          "weight": 70,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565731.2608695654,
+          "minutesPlayed": 68.1304347826087,
+          "playerankScore_x": 0.005086956521739131,
+          "playerankScore_y": 0.005086956521739129
+        },
+        {
+          "height": 179,
+          "weight": 70,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565749.6666666665,
+          "minutesPlayed": 55.833333333333336,
+          "playerankScore_x": -0.0017000000000000012,
+          "playerankScore_y": -0.0017000000000000012
+        },
+        {
+          "height": 186,
+          "weight": 78,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565748.7391304346,
+          "minutesPlayed": 66.04347826086956,
+          "playerankScore_x": 0.003160869565217391,
+          "playerankScore_y": 0.0031608695652173917
+        },
+        {
+          "height": 171,
+          "weight": 73,
+          "wyId": 680,
+          "goalScored": 0,
+          "matchId": 2525524.111111111,
+          "minutesPlayed": 61,
+          "playerankScore_x": 0.004483333333333333,
+          "playerankScore_y": 0.004483333333333335
+        },
+        {
+          "height": 178,
+          "weight": 71,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565725.2608695654,
+          "minutesPlayed": 87.95652173913044,
+          "playerankScore_x": 0.0012826086956521721,
+          "playerankScore_y": 0.0012826086956521721
+        },
+        {
+          "height": 184,
+          "weight": 79,
+          "wyId": 679,
+          "goalScored": 0.08695652173913043,
+          "matchId": 2565753.304347826,
+          "minutesPlayed": 56.869565217391305,
+          "playerankScore_x": 0.007930434782608693,
+          "playerankScore_y": 0.007930434782608688
+        },
+        {
+          "height": 175,
+          "weight": 70,
+          "wyId": 692,
+          "goalScored": 0.05555555555555555,
+          "matchId": 2565734.5833333335,
+          "minutesPlayed": 88.91666666666667,
+          "playerankScore_x": 0.002894444444444445,
+          "playerankScore_y": 0.0028944444444444464
+        },
+        {
+          "height": 177,
+          "weight": 73,
+          "wyId": 677,
+          "goalScored": 0.23076923076923078,
+          "matchId": 2565778.769230769,
+          "minutesPlayed": 35.07692307692308,
+          "playerankScore_x": 0.008484615384615384,
+          "playerankScore_y": 0.008484615384615384
+        },
+        {
+          "height": 184,
+          "weight": 76,
+          "wyId": 679,
+          "goalScored": 0.05555555555555555,
+          "matchId": 2565733.888888889,
+          "minutesPlayed": 87.69444444444444,
+          "playerankScore_x": 0.010266666666666667,
+          "playerankScore_y": 0.010266666666666664
+        },
+        {
+          "height": 173,
+          "weight": 70,
+          "wyId": 675,
+          "goalScored": 0.11764705882352941,
+          "matchId": 2525173.911764706,
+          "minutesPlayed": 51.94117647058823,
+          "playerankScore_x": 0.011005882352941176,
+          "playerankScore_y": 0.011005882352941181
+        },
+        {
+          "height": 173,
+          "weight": 73,
+          "wyId": 675,
+          "goalScored": 0,
+          "matchId": 2511327.25,
+          "minutesPlayed": 88.57142857142857,
+          "playerankScore_x": 0.001964285714285713,
+          "playerankScore_y": 0.001964285714285712
+        },
+        {
+          "height": 184,
+          "weight": 76,
+          "wyId": 677,
+          "goalScored": 0,
+          "matchId": 2565755.8636363638,
+          "minutesPlayed": 63.54545454545455,
+          "playerankScore_x": 0.0027636363636363652,
+          "playerankScore_y": 0.0027636363636363644
+        },
+        {
+          "height": 179,
+          "weight": 74,
+          "wyId": 674,
+          "goalScored": 0.2222222222222222,
+          "matchId": 2471729.4814814813,
+          "minutesPlayed": 44.74074074074074,
+          "playerankScore_x": 0.007444444444444444,
+          "playerankScore_y": 0.007444444444444446
+        },
+        {
+          "height": 175,
+          "weight": 65,
+          "wyId": 712,
+          "goalScored": 0.15384615384615385,
+          "matchId": 2565625.3076923075,
+          "minutesPlayed": 81.84615384615384,
+          "playerankScore_x": 0.004723076923076923,
+          "playerankScore_y": 0.004723076923076922
+        },
+        {
+          "height": 175,
+          "weight": 67,
+          "wyId": 701,
+          "goalScored": 0,
+          "matchId": 2565710.3076923075,
+          "minutesPlayed": 68.76923076923077,
+          "playerankScore_x": -0.005823076923076925,
+          "playerankScore_y": -0.005823076923076926
+        },
+        {
+          "height": 173,
+          "weight": 76,
+          "wyId": 756,
+          "goalScored": 0,
+          "matchId": 2565745.8,
+          "minutesPlayed": 38,
+          "playerankScore_x": 0.007220000000000002,
+          "playerankScore_y": 0.007220000000000002
+        },
+        {
+          "height": 178,
+          "weight": 76,
+          "wyId": 701,
+          "goalScored": 0.07142857142857142,
+          "matchId": 2565733.535714286,
+          "minutesPlayed": 85.42857142857143,
+          "playerankScore_x": 0.007400000000000001,
+          "playerankScore_y": 0.007399999999999998
+        },
+        {
+          "height": 171,
+          "weight": 64,
+          "wyId": 677,
+          "goalScored": 0,
+          "matchId": 2565732,
+          "minutesPlayed": 52.55555555555556,
+          "playerankScore_x": 0.008055555555555555,
+          "playerankScore_y": 0.008055555555555554
+        },
+        {
+          "height": 172,
+          "weight": 66,
+          "wyId": 674,
+          "goalScored": 0,
+          "matchId": 2565732.303030303,
+          "minutesPlayed": 88.03030303030303,
+          "playerankScore_x": -0.0001242424242424236,
+          "playerankScore_y": -0.00012424242424242352
+        },
+        {
+          "height": 180,
+          "weight": 67,
+          "wyId": 692,
+          "goalScored": 0,
+          "matchId": 2565721.85,
+          "minutesPlayed": 73.1,
+          "playerankScore_x": 0.008495000000000003,
+          "playerankScore_y": 0.008495000000000003
+        },
+        {
+          "height": 179,
+          "weight": 76,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565717.090909091,
+          "minutesPlayed": 65.36363636363636,
+          "playerankScore_x": -0.0015545454545454543,
+          "playerankScore_y": -0.0015545454545454543
+        },
+        {
+          "height": 169,
+          "weight": 69,
+          "wyId": 714,
+          "goalScored": 0.043478260869565216,
+          "matchId": 2565724.347826087,
+          "minutesPlayed": 67.47826086956522,
+          "playerankScore_x": 0.003530434782608696,
+          "playerankScore_y": 0.0035304347826086977
+        },
+        {
+          "height": 183,
+          "weight": 79,
+          "wyId": 756,
+          "goalScored": 0.08333333333333333,
+          "matchId": 2565835.6666666665,
+          "minutesPlayed": 37.166666666666664,
+          "playerankScore_x": 0.007891666666666667,
+          "playerankScore_y": 0.007891666666666668
+        },
+        {
+          "height": 178,
+          "weight": 73,
+          "wyId": 684,
+          "goalScored": 0.39285714285714285,
+          "matchId": 2565717.3571428573,
+          "minutesPlayed": 68.85714285714286,
+          "playerankScore_x": 0.010982142857142857,
+          "playerankScore_y": 0.010982142857142854
+        },
+        {
+          "height": 189,
+          "weight": 80,
+          "wyId": 712,
+          "goalScored": 0,
+          "matchId": 2499913.7407407407,
+          "minutesPlayed": 84.96296296296296,
+          "playerankScore_x": -0.002337037037037037,
+          "playerankScore_y": -0.0023370370370370385
+        },
+        {
+          "height": 178,
+          "weight": 73,
+          "wyId": 678,
+          "goalScored": 0,
+          "matchId": 2565753.8666666667,
+          "minutesPlayed": 77.46666666666667,
+          "playerankScore_x": -0.001466666666666666,
+          "playerankScore_y": -0.0014666666666666658
+        },
+        {
+          "height": 174,
+          "weight": 65,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565585.5,
+          "minutesPlayed": 53.5,
+          "playerankScore_x": -0.0141,
+          "playerankScore_y": -0.0141
+        },
+        {
+          "height": 179,
+          "weight": 69,
+          "wyId": 695,
+          "goalScored": 0,
+          "matchId": 2565619.4166666665,
+          "minutesPlayed": 90,
+          "playerankScore_x": -0.0013000000000000008,
+          "playerankScore_y": -0.0013000000000000008
+        },
+        {
+          "height": 180,
+          "weight": 75,
+          "wyId": 691,
+          "goalScored": 0.42105263157894735,
+          "matchId": 2565737.6578947366,
+          "minutesPlayed": 89.78947368421052,
+          "playerankScore_x": 0.013707894736842112,
+          "playerankScore_y": 0.0137078947368421
+        },
+        {
+          "height": 183,
+          "weight": 75,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565737.527777778,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.009483333333333331,
+          "playerankScore_y": 0.009483333333333338
+        },
+        {
+          "height": 182,
+          "weight": 77,
+          "wyId": 712,
+          "goalScored": 0.21052631578947367,
+          "matchId": 2565765.6315789474,
+          "minutesPlayed": 74,
+          "playerankScore_x": 0.015678947368421053,
+          "playerankScore_y": 0.015678947368421053
+        },
+        {
+          "height": 180,
+          "weight": 75,
+          "wyId": 701,
+          "goalScored": 0,
+          "matchId": 2565733.8125,
+          "minutesPlayed": 86.9375,
+          "playerankScore_x": 0.0017000000000000014,
+          "playerankScore_y": 0.0017000000000000006
+        },
+        {
+          "height": 183,
+          "weight": 77,
+          "wyId": 712,
+          "goalScored": 0.08333333333333333,
+          "matchId": 2565679.3333333335,
+          "minutesPlayed": 84.16666666666667,
+          "playerankScore_x": 0.010458333333333333,
+          "playerankScore_y": 0.010458333333333333
+        },
+        {
+          "height": 185,
+          "weight": 86,
+          "wyId": 698,
+          "goalScored": 0,
+          "matchId": 2565817.7647058824,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.01038235294117647,
+          "playerankScore_y": 0.010382352941176471
+        },
+        {
+          "height": 175,
+          "weight": 67,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565640.2666666666,
+          "minutesPlayed": 40,
+          "playerankScore_x": 0.001839999999999999,
+          "playerankScore_y": 0.0018399999999999985
+        },
+        {
+          "height": 181,
+          "weight": 71,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565681,
+          "minutesPlayed": 72.5,
+          "playerankScore_x": 0.0015,
+          "playerankScore_y": 0.0015
+        },
+        {
+          "height": 175,
+          "weight": 72,
+          "wyId": 680,
+          "goalScored": 0,
+          "matchId": 2544990.6842105263,
+          "minutesPlayed": 51.578947368421055,
+          "playerankScore_x": 0.007021052631578949,
+          "playerankScore_y": 0.007021052631578953
+        },
+        {
+          "height": 180,
+          "weight": 78,
+          "wyId": 677,
+          "goalScored": 0.28,
+          "matchId": 2496001.64,
+          "minutesPlayed": 65.76,
+          "playerankScore_x": 0.011543999999999999,
+          "playerankScore_y": 0.011543999999999999
+        },
+        {
+          "height": 179,
+          "weight": 75,
+          "wyId": 756,
+          "goalScored": 0.07407407407407407,
+          "matchId": 2565738.703703704,
+          "minutesPlayed": 67.37037037037037,
+          "playerankScore_x": -0.0017296296296296287,
+          "playerankScore_y": -0.0017296296296296294
+        },
+        {
+          "height": 176,
+          "weight": 70,
+          "wyId": 712,
+          "goalScored": 0.03333333333333333,
+          "matchId": 2565733.6666666665,
+          "minutesPlayed": 86.43333333333334,
+          "playerankScore_x": -0.0023466666666666675,
+          "playerankScore_y": -0.0023466666666666683
+        },
+        {
+          "height": 175,
+          "weight": 74,
+          "wyId": 712,
+          "goalScored": 0.10526315789473684,
+          "matchId": 2565785.4210526315,
+          "minutesPlayed": 85.57894736842105,
+          "playerankScore_x": 0.013168421052631578,
+          "playerankScore_y": 0.013168421052631578
+        },
+        {
+          "height": 180,
+          "weight": 71,
+          "wyId": 712,
+          "goalScored": 0.12121212121212122,
+          "matchId": 2565733.393939394,
+          "minutesPlayed": 77.03030303030303,
+          "playerankScore_x": 0.0011393939393939394,
+          "playerankScore_y": 0.0011393939393939399
+        },
+        {
+          "height": 175,
+          "weight": 72,
+          "wyId": 712,
+          "goalScored": 0,
+          "matchId": 2565725.8125,
+          "minutesPlayed": 85.5,
+          "playerankScore_x": -0.017375,
+          "playerankScore_y": -0.017375
+        },
+        {
+          "height": 179,
+          "weight": 76,
+          "wyId": 696,
+          "goalScored": 0,
+          "matchId": 2565597.8,
+          "minutesPlayed": 42.6,
+          "playerankScore_x": -0.013319999999999999,
+          "playerankScore_y": -0.013319999999999999
+        },
+        {
+          "height": 189,
+          "weight": 82,
+          "wyId": 695,
+          "goalScored": 0,
+          "matchId": 2565594.5555555555,
+          "minutesPlayed": 70.22222222222223,
+          "playerankScore_x": 0.0014333333333333336,
+          "playerankScore_y": 0.0014333333333333336
+        },
+        {
+          "height": 192,
+          "weight": 86,
+          "wyId": 677,
+          "goalScored": 0.05,
+          "matchId": 2565792,
+          "minutesPlayed": 87.35,
+          "playerankScore_x": 0.008589999999999997,
+          "playerankScore_y": 0.008589999999999997
+        },
+        {
+          "height": 182,
+          "weight": 74,
+          "wyId": 696,
+          "goalScored": 0.10344827586206896,
+          "matchId": 2565736.379310345,
+          "minutesPlayed": 83.86206896551724,
+          "playerankScore_x": 0.004375862068965518,
+          "playerankScore_y": 0.0043758620689655185
+        },
+        {
+          "height": 181,
+          "weight": 72,
+          "wyId": 691,
+          "goalScored": 0.22857142857142856,
+          "matchId": 2565738.9142857143,
+          "minutesPlayed": 76.22857142857143,
+          "playerankScore_x": 0.01287714285714286,
+          "playerankScore_y": 0.012877142857142863
+        },
+        {
+          "height": 189,
+          "weight": 80,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565814.3,
+          "minutesPlayed": 89,
+          "playerankScore_x": 0.005849999999999999,
+          "playerankScore_y": 0.0058499999999999976
+        },
+        {
+          "height": 183,
+          "weight": 80,
+          "wyId": 676,
+          "goalScored": 0,
+          "matchId": 2340723.8,
+          "minutesPlayed": 75.2,
+          "playerankScore_x": 0.007600000000000003,
+          "playerankScore_y": 0.007599999999999998
+        },
+        {
+          "height": 178,
+          "weight": 74,
+          "wyId": 674,
+          "goalScored": 0.06666666666666667,
+          "matchId": 2539390.6666666665,
+          "minutesPlayed": 54.6,
+          "playerankScore_x": 0.006393333333333333,
+          "playerankScore_y": 0.006393333333333333
+        },
+        {
+          "height": 186,
+          "weight": 79,
+          "wyId": 679,
+          "goalScored": 0.22727272727272727,
+          "matchId": 2565756.6818181816,
+          "minutesPlayed": 40.81818181818182,
+          "playerankScore_x": 0.006581818181818183,
+          "playerankScore_y": 0.006581818181818186
+        },
+        {
+          "height": 182,
+          "weight": 86,
+          "wyId": 676,
+          "goalScored": 0.7105263157894737,
+          "matchId": 2498934.447368421,
+          "minutesPlayed": 88.23684210526316,
+          "playerankScore_x": 0.025028947368421057,
+          "playerankScore_y": 0.02502894736842107
+        },
+        {
+          "height": 182,
+          "weight": 76,
+          "wyId": 695,
+          "goalScored": 0.25,
+          "matchId": 2565847.75,
+          "minutesPlayed": 35.25,
+          "playerankScore_x": 0.003475,
+          "playerankScore_y": 0.003475
+        },
+        {
+          "height": 185,
+          "weight": 81,
+          "wyId": 675,
+          "goalScored": 0.59375,
+          "matchId": 2402384.90625,
+          "minutesPlayed": 72.9375,
+          "playerankScore_x": 0.020053125,
+          "playerankScore_y": 0.020053125
+        },
+        {
+          "height": 172,
+          "weight": 66,
+          "wyId": 675,
+          "goalScored": 0.1111111111111111,
+          "matchId": 2394396.9166666665,
+          "minutesPlayed": 81.69444444444444,
+          "playerankScore_x": 0.010488888888888888,
+          "playerankScore_y": 0.010488888888888883
+        },
+        {
+          "height": 187,
+          "weight": 80,
+          "wyId": 679,
+          "goalScored": 0,
+          "matchId": 2565728.185185185,
+          "minutesPlayed": 85.14814814814815,
+          "playerankScore_x": 0.010744444444444445,
+          "playerankScore_y": 0.010744444444444445
+        },
+        {
+          "height": 176,
+          "weight": 69,
+          "wyId": 676,
+          "goalScored": 0.13333333333333333,
+          "matchId": 2565727.2,
+          "minutesPlayed": 37.86666666666667,
+          "playerankScore_x": 0.006646666666666665,
+          "playerankScore_y": 0.006646666666666663
+        },
+        {
+          "height": 183,
+          "weight": 76,
+          "wyId": 675,
+          "goalScored": 0.16666666666666666,
+          "matchId": 2378200.638888889,
+          "minutesPlayed": 86.33333333333333,
+          "playerankScore_x": 0.01311111111111111,
+          "playerankScore_y": 0.013111111111111117
+        },
+        {
+          "height": 185,
+          "weight": 81,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565630,
+          "minutesPlayed": 73.42857142857143,
+          "playerankScore_x": 0.003142857142857143,
+          "playerankScore_y": 0.0031428571428571426
+        },
+        {
+          "height": 169,
+          "weight": 63,
+          "wyId": 684,
+          "goalScored": 0.1891891891891892,
+          "matchId": 2510836.135135135,
+          "minutesPlayed": 79.08108108108108,
+          "playerankScore_x": 0.010618918918918923,
+          "playerankScore_y": 0.01061891891891892
+        },
+        {
+          "height": 176,
+          "weight": 72,
+          "wyId": 680,
+          "goalScored": 0,
+          "matchId": 2565744.0384615385,
+          "minutesPlayed": 89.53846153846153,
+          "playerankScore_x": -0.0006346153846153843,
+          "playerankScore_y": -0.0006346153846153844
+        },
+        {
+          "height": 174,
+          "weight": 76,
+          "wyId": 691,
+          "goalScored": 0,
+          "matchId": 2565722.464285714,
+          "minutesPlayed": 53.642857142857146,
+          "playerankScore_x": 0.007824999999999999,
+          "playerankScore_y": 0.007824999999999999
+        },
+        {
+          "height": 181,
+          "weight": 81,
+          "wyId": 680,
+          "goalScored": 0,
+          "matchId": 2565717.3636363638,
+          "minutesPlayed": 59.27272727272727,
+          "playerankScore_x": -0.0006636363636363639,
+          "playerankScore_y": -0.0006636363636363638
+        },
+        {
+          "height": 183,
+          "weight": 84,
+          "wyId": 682,
+          "goalScored": 0,
+          "matchId": 2565766.8666666667,
+          "minutesPlayed": 83.33333333333333,
+          "playerankScore_x": 0.005320000000000002,
+          "playerankScore_y": 0.0053200000000000035
+        },
+        {
+          "height": 189,
+          "weight": 82,
+          "wyId": 680,
+          "goalScored": 0.08695652173913043,
+          "matchId": 2477402.1304347827,
+          "minutesPlayed": 85.1304347826087,
+          "playerankScore_x": 0.009665217391304347,
+          "playerankScore_y": 0.009665217391304352
+        },
+        {
+          "height": 182,
+          "weight": 74,
+          "wyId": 701,
+          "goalScored": 0,
+          "matchId": 2565739.7,
+          "minutesPlayed": 81.03333333333333,
+          "playerankScore_x": -0.008873333333333334,
+          "playerankScore_y": -0.008873333333333337
+        },
+        {
+          "height": 170,
+          "weight": 65,
+          "wyId": 696,
+          "goalScored": 0,
+          "matchId": 2560206.5,
+          "minutesPlayed": 40.916666666666664,
+          "playerankScore_x": 0.0045583333333333335,
+          "playerankScore_y": 0.004558333333333333
+        },
+        {
+          "height": 180,
+          "weight": 74,
+          "wyId": 695,
+          "goalScored": 0.17391304347826086,
+          "matchId": 2572494.5217391304,
+          "minutesPlayed": 57.82608695652174,
+          "playerankScore_x": 0.002243478260869567,
+          "playerankScore_y": 0.002243478260869568
+        },
+        {
+          "height": 182,
+          "weight": 76,
+          "wyId": 682,
+          "goalScored": 0,
+          "matchId": 2565735.1052631577,
+          "minutesPlayed": 58.73684210526316,
+          "playerankScore_x": 0.004289473684210526,
+          "playerankScore_y": 0.004289473684210525
+        },
+        {
+          "height": 178,
+          "weight": 79,
+          "wyId": 680,
+          "goalScored": 0.25,
+          "matchId": 2529466.535714286,
+          "minutesPlayed": 59.214285714285715,
+          "playerankScore_x": 0.010471428571428576,
+          "playerankScore_y": 0.010471428571428576
+        },
+        {
+          "height": 175,
+          "weight": 78,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565837,
+          "minutesPlayed": 77.06666666666666,
+          "playerankScore_x": -0.002993333333333333,
+          "playerankScore_y": -0.0029933333333333335
+        },
+        {
+          "height": 185,
+          "weight": 78,
+          "wyId": 712,
+          "goalScored": 0,
+          "matchId": 2565735.625,
+          "minutesPlayed": 86.1875,
+          "playerankScore_x": 0.013956250000000002,
+          "playerankScore_y": 0.013956250000000002
+        },
+        {
+          "height": 186,
+          "weight": 82,
+          "wyId": 680,
+          "goalScored": 0.14285714285714285,
+          "matchId": 2565744.8928571427,
+          "minutesPlayed": 65.57142857142857,
+          "playerankScore_x": 0.014353571428571427,
+          "playerankScore_y": 0.014353571428571424
+        },
+        {
+          "height": 172,
+          "weight": 66,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565721.65,
+          "minutesPlayed": 59.95,
+          "playerankScore_x": 0.00567,
+          "playerankScore_y": 0.005669999999999998
+        },
+        {
+          "height": 186,
+          "weight": 84,
+          "wyId": 674,
+          "goalScored": 0.41935483870967744,
+          "matchId": 2509516.3870967743,
+          "minutesPlayed": 70.16129032258064,
+          "playerankScore_x": 0.00859354838709677,
+          "playerankScore_y": 0.008593548387096774
+        },
+        {
+          "height": 175,
+          "weight": 68,
+          "wyId": 682,
+          "goalScored": 0.3125,
+          "matchId": 2565743.25,
+          "minutesPlayed": 37.6875,
+          "playerankScore_x": 0.008143750000000002,
+          "playerankScore_y": 0.008143750000000003
+        },
+        {
+          "height": 182,
+          "weight": 75,
+          "wyId": 676,
+          "goalScored": 0.058823529411764705,
+          "matchId": 2399245.029411765,
+          "minutesPlayed": 89.08823529411765,
+          "playerankScore_x": 0.015041176470588235,
+          "playerankScore_y": 0.015041176470588228
+        },
+        {
+          "height": 172,
+          "weight": 70,
+          "wyId": 679,
+          "goalScored": 0.35,
+          "matchId": 2565771.4,
+          "minutesPlayed": 52.15,
+          "playerankScore_x": 0.011810000000000003,
+          "playerankScore_y": 0.011810000000000008
+        },
+        {
+          "height": 176,
+          "weight": 69,
+          "wyId": 680,
+          "goalScored": 0,
+          "matchId": 2565652.4166666665,
+          "minutesPlayed": 68.5,
+          "playerankScore_x": 0.0024416666666666675,
+          "playerankScore_y": 0.002441666666666668
+        },
+        {
+          "height": 177,
+          "weight": 74,
+          "wyId": 684,
+          "goalScored": 0.07692307692307693,
+          "matchId": 2565764,
+          "minutesPlayed": 52.03846153846154,
+          "playerankScore_x": 0.006734615384615385,
+          "playerankScore_y": 0.006734615384615387
+        },
+        {
+          "height": 185,
+          "weight": 80,
+          "wyId": 698,
+          "goalScored": 0.4,
+          "matchId": 2565745.3,
+          "minutesPlayed": 61.2,
+          "playerankScore_x": 0.010845,
+          "playerankScore_y": 0.010844999999999997
+        },
+        {
+          "height": 188,
+          "weight": 80,
+          "wyId": 674,
+          "goalScored": 0.12903225806451613,
+          "matchId": 2565733.709677419,
+          "minutesPlayed": 84.80645161290323,
+          "playerankScore_x": 0.012103225806451614,
+          "playerankScore_y": 0.01210322580645162
+        },
+        {
+          "height": 178,
+          "weight": 74,
+          "wyId": 676,
+          "goalScored": 0,
+          "matchId": 2565760,
+          "minutesPlayed": 68.9,
+          "playerankScore_x": 0.01277,
+          "playerankScore_y": 0.01277
+        },
+        {
+          "height": 170,
+          "weight": 68,
+          "wyId": 680,
+          "goalScored": 0.4090909090909091,
+          "matchId": 2565736.6818181816,
+          "minutesPlayed": 75.36363636363636,
+          "playerankScore_x": 0.02204545454545455,
+          "playerankScore_y": 0.022045454545454538
+        },
+        {
+          "height": 180,
+          "weight": 75,
+          "wyId": 695,
+          "goalScored": 0.06666666666666667,
+          "matchId": 2565707.2,
+          "minutesPlayed": 65.6,
+          "playerankScore_x": -0.0003533333333333334,
+          "playerankScore_y": -0.0003533333333333334
+        },
+        {
+          "height": 178,
+          "weight": 79,
+          "wyId": 680,
+          "goalScored": 0,
+          "matchId": 2565649.3333333335,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.01,
+          "playerankScore_y": 0.01
+        },
+        {
+          "height": 174,
+          "weight": 66,
+          "wyId": 712,
+          "goalScored": 0.09090909090909091,
+          "matchId": 2565717.9545454546,
+          "minutesPlayed": 73.54545454545455,
+          "playerankScore_x": 0.003495454545454545,
+          "playerankScore_y": 0.0034954545454545464
+        },
+        {
+          "height": 184,
+          "weight": 78,
+          "wyId": 684,
+          "goalScored": 0.029411764705882353,
+          "matchId": 2565739.8529411764,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.010773529411764706,
+          "playerankScore_y": 0.0107735294117647
+        },
+        {
+          "height": 181,
+          "weight": 74,
+          "wyId": 692,
+          "goalScored": 0.11764705882352941,
+          "matchId": 2565733.6764705884,
+          "minutesPlayed": 86.23529411764706,
+          "playerankScore_x": -0.0007558823529411722,
+          "playerankScore_y": -0.0007558823529411722
+        },
+        {
+          "height": 184,
+          "weight": 81,
+          "wyId": 680,
+          "goalScored": 0,
+          "matchId": 2500847.3,
+          "minutesPlayed": 80.36666666666666,
+          "playerankScore_x": 0.007096666666666668,
+          "playerankScore_y": 0.007096666666666668
+        },
+        {
+          "height": 170,
+          "weight": 58,
+          "wyId": 679,
+          "goalScored": 0.06451612903225806,
+          "matchId": 2486599.1612903224,
+          "minutesPlayed": 79.74193548387096,
+          "playerankScore_x": -0.0018483870967741928,
+          "playerankScore_y": -0.0018483870967741928
+        },
+        {
+          "height": 194,
+          "weight": 91,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565753,
+          "minutesPlayed": 81.71428571428571,
+          "playerankScore_x": 0.003871428571428572,
+          "playerankScore_y": 0.0038714285714285717
+        },
+        {
+          "height": 185,
+          "weight": 83,
+          "wyId": 677,
+          "goalScored": 0.047619047619047616,
+          "matchId": 2565697.904761905,
+          "minutesPlayed": 84.76190476190476,
+          "playerankScore_x": 0.011057142857142857,
+          "playerankScore_y": 0.011057142857142856
+        },
+        {
+          "height": 169,
+          "weight": 65,
+          "wyId": 677,
+          "goalScored": 0.038461538461538464,
+          "matchId": 2565749.5384615385,
+          "minutesPlayed": 56.11538461538461,
+          "playerankScore_x": 0.0011346153846153828,
+          "playerankScore_y": 0.001134615384615383
+        },
+        {
+          "height": 187,
+          "weight": 82,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2311775.25,
+          "minutesPlayed": 63,
+          "playerankScore_x": 0.0043749999999999995,
+          "playerankScore_y": 0.0043749999999999995
+        },
+        {
+          "height": 187,
+          "weight": 83,
+          "wyId": 684,
+          "goalScored": 0,
+          "matchId": 1856004.111111111,
+          "minutesPlayed": 97.33333333333333,
+          "playerankScore_x": 0.0078111111111111116,
+          "playerankScore_y": 0.0078111111111111116
+        },
+        {
+          "height": 181,
+          "weight": 77,
+          "wyId": 682,
+          "goalScored": 0.39473684210526316,
+          "matchId": 2525648.6052631577,
+          "minutesPlayed": 68.44736842105263,
+          "playerankScore_x": 0.01673947368421053,
+          "playerankScore_y": 0.01673947368421054
+        },
+        {
+          "height": 176,
+          "weight": 63,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565861.1818181816,
+          "minutesPlayed": 59.36363636363637,
+          "playerankScore_x": -0.005072727272727273,
+          "playerankScore_y": -0.005072727272727272
+        },
+        {
+          "height": 185,
+          "weight": 78,
+          "wyId": 674,
+          "goalScored": 0.47619047619047616,
+          "matchId": 2465901.8095238097,
+          "minutesPlayed": 59.904761904761905,
+          "playerankScore_x": 0.016719047619047623,
+          "playerankScore_y": 0.016719047619047626
+        },
+        {
+          "height": 178,
+          "weight": 65,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565867.5,
+          "minutesPlayed": 56.625,
+          "playerankScore_x": 0.004362500000000001,
+          "playerankScore_y": 0.004362500000000001
+        },
+        {
+          "height": 184,
+          "weight": 70,
+          "wyId": 696,
+          "goalScored": 0.3333333333333333,
+          "matchId": 2565646.5,
+          "minutesPlayed": 75.16666666666667,
+          "playerankScore_x": 0.008633333333333335,
+          "playerankScore_y": 0.008633333333333335
+        },
+        {
+          "height": 179,
+          "weight": 77,
+          "wyId": 677,
+          "goalScored": 0,
+          "matchId": 2565720.580645161,
+          "minutesPlayed": 85.3225806451613,
+          "playerankScore_x": 0.0011612903225806453,
+          "playerankScore_y": 0.0011612903225806453
+        },
+        {
+          "height": 185,
+          "weight": 84,
+          "wyId": 675,
+          "goalScored": 0.14705882352941177,
+          "matchId": 2505999.2647058824,
+          "minutesPlayed": 86.1470588235294,
+          "playerankScore_x": 0.012838235294117649,
+          "playerankScore_y": 0.012838235294117649
+        },
+        {
+          "height": 189,
+          "weight": 93,
+          "wyId": 687,
+          "goalScored": 0.4411764705882353,
+          "matchId": 2565731.705882353,
+          "minutesPlayed": 81.70588235294117,
+          "playerankScore_x": 0.015552941176470587,
+          "playerankScore_y": 0.015552941176470589
+        },
+        {
+          "height": 184,
+          "weight": 78,
+          "wyId": 680,
+          "goalScored": 0.2857142857142857,
+          "matchId": 2565611,
+          "minutesPlayed": 74.71428571428571,
+          "playerankScore_x": 0.0048428571428571435,
+          "playerankScore_y": 0.004842857142857143
+        },
+        {
+          "height": 188,
+          "weight": 80,
+          "wyId": 691,
+          "goalScored": 0,
+          "matchId": 2565759.272727273,
+          "minutesPlayed": 83.63636363636364,
+          "playerankScore_x": 0.006763636363636364,
+          "playerankScore_y": 0.006763636363636361
+        },
+        {
+          "height": 187,
+          "weight": 79,
+          "wyId": 674,
+          "goalScored": 0,
+          "matchId": 2565743.5172413792,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.010351724137931036,
+          "playerankScore_y": 0.01035172413793104
+        },
+        {
+          "height": 187,
+          "weight": 82,
+          "wyId": 712,
+          "goalScored": 0.1724137931034483,
+          "matchId": 2565713.103448276,
+          "minutesPlayed": 82.51724137931035,
+          "playerankScore_x": 0.005782758620689659,
+          "playerankScore_y": 0.005782758620689663
+        },
+        {
+          "height": 186,
+          "weight": 80,
+          "wyId": 695,
+          "goalScored": 0.1111111111111111,
+          "matchId": 2275362.3333333335,
+          "minutesPlayed": 55.44444444444444,
+          "playerankScore_x": 0.00278888888888889,
+          "playerankScore_y": 0.00278888888888889
+        },
+        {
+          "height": 168,
+          "weight": 68,
+          "wyId": 684,
+          "goalScored": 0.08695652173913043,
+          "matchId": 2565714.217391304,
+          "minutesPlayed": 89.69565217391305,
+          "playerankScore_x": 0.002160869565217393,
+          "playerankScore_y": 0.002160869565217394
+        },
+        {
+          "height": 170,
+          "weight": 68,
+          "wyId": 677,
+          "goalScored": 0.047619047619047616,
+          "matchId": 2541562.523809524,
+          "minutesPlayed": 59.904761904761905,
+          "playerankScore_x": 0.0014904761904761896,
+          "playerankScore_y": 0.001490476190476189
+        },
+        {
+          "height": 189,
+          "weight": 90,
+          "wyId": 674,
+          "goalScored": 0,
+          "matchId": 2565734.625,
+          "minutesPlayed": 84.625,
+          "playerankScore_x": 0.009916666666666666,
+          "playerankScore_y": 0.009916666666666662
+        },
+        {
+          "height": 186,
+          "weight": 82,
+          "wyId": 684,
+          "goalScored": 0.03225806451612903,
+          "matchId": 2565728.35483871,
+          "minutesPlayed": 77.51612903225806,
+          "playerankScore_x": 0.007716129032258065,
+          "playerankScore_y": 0.007716129032258068
+        },
+        {
+          "height": 175,
+          "weight": 72,
+          "wyId": 680,
+          "goalScored": 0.15625,
+          "matchId": 2456829.59375,
+          "minutesPlayed": 57.78125,
+          "playerankScore_x": 0.013137500000000007,
+          "playerankScore_y": 0.01313750000000001
+        },
+        {
+          "height": 182,
+          "weight": 77,
+          "wyId": 674,
+          "goalScored": 0.42105263157894735,
+          "matchId": 2552374.5789473685,
+          "minutesPlayed": 71.39473684210526,
+          "playerankScore_x": 0.017755263157894736,
+          "playerankScore_y": 0.017755263157894743
+        },
+        {
+          "height": 175,
+          "weight": 72,
+          "wyId": 679,
+          "goalScored": 0,
+          "matchId": 2058001.25,
+          "minutesPlayed": 96.5,
+          "playerankScore_x": 0.0015,
+          "playerankScore_y": 0.0015
+        },
+        {
+          "height": 180,
+          "weight": 80,
+          "wyId": 680,
+          "goalScored": 0,
+          "matchId": 2565695.6,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.007820000000000002,
+          "playerankScore_y": 0.007820000000000002
+        },
+        {
+          "height": 171,
+          "weight": 67,
+          "wyId": 677,
+          "goalScored": 0.03333333333333333,
+          "matchId": 2565731.3,
+          "minutesPlayed": 87.4,
+          "playerankScore_x": 0.000303333333333335,
+          "playerankScore_y": 0.000303333333333335
+        },
+        {
+          "height": 187,
+          "weight": 82,
+          "wyId": 701,
+          "goalScored": 0,
+          "matchId": 2565719.3076923075,
+          "minutesPlayed": 85.15384615384616,
+          "playerankScore_x": 0.010326923076923077,
+          "playerankScore_y": 0.010326923076923074
+        },
+        {
+          "height": 189,
+          "weight": 84,
+          "wyId": 682,
+          "goalScored": 0,
+          "matchId": 2565618,
+          "minutesPlayed": 76,
+          "playerankScore_x": 0.008633333333333333,
+          "playerankScore_y": 0.008633333333333333
+        },
+        {
+          "height": 179,
+          "weight": 76,
+          "wyId": 692,
+          "goalScored": 0,
+          "matchId": 2565780,
+          "minutesPlayed": 78.3157894736842,
+          "playerankScore_x": 0.008542105263157894,
+          "playerankScore_y": 0.008542105263157896
+        },
+        {
+          "height": 180,
+          "weight": 83,
+          "wyId": 680,
+          "goalScored": 0.034482758620689655,
+          "matchId": 2513215.206896552,
+          "minutesPlayed": 82.58620689655173,
+          "playerankScore_x": 0.007500000000000001,
+          "playerankScore_y": 0.007500000000000005
+        },
+        {
+          "height": 191,
+          "weight": 87,
+          "wyId": 712,
+          "goalScored": 0.3076923076923077,
+          "matchId": 2500415.4615384615,
+          "minutesPlayed": 60.84615384615385,
+          "playerankScore_x": 0.017453846153846157,
+          "playerankScore_y": 0.017453846153846157
+        },
+        {
+          "height": 173,
+          "weight": 69,
+          "wyId": 674,
+          "goalScored": 0.1111111111111111,
+          "matchId": 2565744.1666666665,
+          "minutesPlayed": 42.833333333333336,
+          "playerankScore_x": 0.010466666666666666,
+          "playerankScore_y": 0.010466666666666671
+        },
+        {
+          "height": 186,
+          "weight": 79,
+          "wyId": 682,
+          "goalScored": 0,
+          "matchId": 2500077,
+          "minutesPlayed": 29.75,
+          "playerankScore_x": 0.00345,
+          "playerankScore_y": 0.00345
+        },
+        {
+          "height": 182,
+          "weight": 76,
+          "wyId": 712,
+          "goalScored": 0,
+          "matchId": 2565683.076923077,
+          "minutesPlayed": 75.3076923076923,
+          "playerankScore_x": 0.006300000000000001,
+          "playerankScore_y": 0.006300000000000001
+        },
+        {
+          "height": 186,
+          "weight": 79,
+          "wyId": 680,
+          "goalScored": 0.043478260869565216,
+          "matchId": 2565722.2608695654,
+          "minutesPlayed": 76.17391304347827,
+          "playerankScore_x": 0.008634782608695655,
+          "playerankScore_y": 0.008634782608695655
+        },
+        {
+          "height": 183,
+          "weight": 81,
+          "wyId": 696,
+          "goalScored": 0,
+          "matchId": 2565729.25,
+          "minutesPlayed": 75.5,
+          "playerankScore_x": 0.0031812500000000005,
+          "playerankScore_y": 0.003181250000000002
+        },
+        {
+          "height": 179,
+          "weight": 66,
+          "wyId": 756,
+          "goalScored": 0,
+          "matchId": 2504193.5757575757,
+          "minutesPlayed": 76.36363636363636,
+          "playerankScore_x": -0.0028606060606060613,
+          "playerankScore_y": -0.0028606060606060626
+        },
+        {
+          "height": 176,
+          "weight": 70,
+          "wyId": 698,
+          "goalScored": 0,
+          "matchId": 2565727.7741935486,
+          "minutesPlayed": 90,
+          "playerankScore_x": -0.017280645161290326,
+          "playerankScore_y": -0.01728064516129034
+        },
+        {
+          "height": 192,
+          "weight": 83,
+          "wyId": 712,
+          "goalScored": 0.041666666666666664,
+          "matchId": 2565746.5833333335,
+          "minutesPlayed": 86.16666666666667,
+          "playerankScore_x": 0.011083333333333332,
+          "playerankScore_y": 0.011083333333333332
+        },
+        {
+          "height": 175,
+          "weight": 62,
+          "wyId": 698,
+          "goalScored": 0.045454545454545456,
+          "matchId": 2473417.9545454546,
+          "minutesPlayed": 59.90909090909091,
+          "playerankScore_x": -0.002281818181818182,
+          "playerankScore_y": -0.002281818181818183
+        },
+        {
+          "height": 181,
+          "weight": 74,
+          "wyId": 680,
+          "goalScored": 0,
+          "matchId": 2565744.2,
+          "minutesPlayed": 81.2,
+          "playerankScore_x": 0.00698,
+          "playerankScore_y": 0.00698
+        },
+        {
+          "height": 180,
+          "weight": 73,
+          "wyId": 677,
+          "goalScored": 0.23529411764705882,
+          "matchId": 2565751.382352941,
+          "minutesPlayed": 82.08823529411765,
+          "playerankScore_x": 0.0011999999999999984,
+          "playerankScore_y": 0.001199999999999999
+        },
+        {
+          "height": 180,
+          "weight": 70,
+          "wyId": 683,
+          "goalScored": 0.09090909090909091,
+          "matchId": 2565828.1818181816,
+          "minutesPlayed": 64.36363636363636,
+          "playerankScore_x": 0.0011909090909090916,
+          "playerankScore_y": 0.0011909090909090916
+        },
+        {
+          "height": 179,
+          "weight": 68,
+          "wyId": 682,
+          "goalScored": 0.1,
+          "matchId": 2464271.6,
+          "minutesPlayed": 74.6,
+          "playerankScore_x": -0.0007650000000000007,
+          "playerankScore_y": -0.0007650000000000005
+        },
+        {
+          "height": 177,
+          "weight": 69,
+          "wyId": 683,
+          "goalScored": 0.19230769230769232,
+          "matchId": 2565759.730769231,
+          "minutesPlayed": 74.76923076923077,
+          "playerankScore_x": 0.00943076923076923,
+          "playerankScore_y": 0.009430769230769236
+        },
+        {
+          "height": 186,
+          "weight": 81,
+          "wyId": 691,
+          "goalScored": 0,
+          "matchId": 2487655.4615384615,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.0107,
+          "playerankScore_y": 0.010699999999999998
+        },
+        {
+          "height": 178,
+          "weight": 72,
+          "wyId": 712,
+          "goalScored": 0.09523809523809523,
+          "matchId": 2565752.380952381,
+          "minutesPlayed": 55.95238095238095,
+          "playerankScore_x": 0.002757142857142857,
+          "playerankScore_y": 0.0027571428571428556
+        },
+        {
+          "height": 182,
+          "weight": 67,
+          "wyId": 682,
+          "goalScored": 0.20689655172413793,
+          "matchId": 2565742.4137931033,
+          "minutesPlayed": 71.55172413793103,
+          "playerankScore_x": 0.012141379310344829,
+          "playerankScore_y": 0.012141379310344829
+        },
+        {
+          "height": 185,
+          "weight": 73,
+          "wyId": 696,
+          "goalScored": 0.12,
+          "matchId": 2565765,
+          "minutesPlayed": 57.12,
+          "playerankScore_x": 0.012768000000000007,
+          "playerankScore_y": 0.012768000000000003
+        },
+        {
+          "height": 186,
+          "weight": 81,
+          "wyId": 680,
+          "goalScored": 0.08571428571428572,
+          "matchId": 2565738.5142857144,
+          "minutesPlayed": 85.74285714285715,
+          "playerankScore_x": 0.0106,
+          "playerankScore_y": 0.0106
+        },
+        {
+          "height": 175,
+          "weight": 72,
+          "wyId": 692,
+          "goalScored": 0,
+          "matchId": 2565585,
+          "minutesPlayed": 8,
+          "playerankScore_x": -0.0054,
+          "playerankScore_y": -0.0054
+        },
+        {
+          "height": 182,
+          "weight": 70,
+          "wyId": 680,
+          "goalScored": 0.09523809523809523,
+          "matchId": 2551485.8095238097,
+          "minutesPlayed": 46.523809523809526,
+          "playerankScore_x": 0.005528571428571426,
+          "playerankScore_y": 0.005528571428571425
+        },
+        {
+          "height": 186,
+          "weight": 77,
+          "wyId": 692,
+          "goalScored": 0,
+          "matchId": 2565769.913043478,
+          "minutesPlayed": 46.52173913043478,
+          "playerankScore_x": 0.0022347826086956514,
+          "playerankScore_y": 0.0022347826086956523
+        },
+        {
+          "height": 180,
+          "weight": 72,
+          "wyId": 756,
+          "goalScored": 0,
+          "matchId": 2565908,
+          "minutesPlayed": 8,
+          "playerankScore_x": -0.0005,
+          "playerankScore_y": -0.0005
+        },
+        {
+          "height": 187,
+          "weight": 75,
+          "wyId": 678,
+          "goalScored": 0,
+          "matchId": 2565753.5555555555,
+          "minutesPlayed": 38.888888888888886,
+          "playerankScore_x": 0.003766666666666668,
+          "playerankScore_y": 0.003766666666666668
+        },
+        {
+          "height": 170,
+          "weight": 64,
+          "wyId": 692,
+          "goalScored": 0,
+          "matchId": 2565736.947368421,
+          "minutesPlayed": 80.55263157894737,
+          "playerankScore_x": 0.008176315789473688,
+          "playerankScore_y": 0.008176315789473693
+        },
+        {
+          "height": 183,
+          "weight": 76,
+          "wyId": 712,
+          "goalScored": 0.07692307692307693,
+          "matchId": 2565750.5384615385,
+          "minutesPlayed": 88.3076923076923,
+          "playerankScore_x": -0.01145,
+          "playerankScore_y": -0.011449999999999998
+        },
+        {
+          "height": 188,
+          "weight": 77,
+          "wyId": 680,
+          "goalScored": 0.05,
+          "matchId": 2565732.25,
+          "minutesPlayed": 59.8,
+          "playerankScore_x": 0.01024,
+          "playerankScore_y": 0.01024
+        },
+        {
+          "height": 192,
+          "weight": 82,
+          "wyId": 696,
+          "goalScored": 0.03333333333333333,
+          "matchId": 2565732.1,
+          "minutesPlayed": 89.66666666666667,
+          "playerankScore_x": 0.01407333333333333,
+          "playerankScore_y": 0.014073333333333328
+        },
+        {
+          "height": 170,
+          "weight": 70,
+          "wyId": 687,
+          "goalScored": 0.05263157894736842,
+          "matchId": 2565690.4210526315,
+          "minutesPlayed": 85.89473684210526,
+          "playerankScore_x": 0.0022736842105263158,
+          "playerankScore_y": 0.002273684210526316
+        },
+        {
+          "height": 182,
+          "weight": 80,
+          "wyId": 674,
+          "goalScored": 0,
+          "matchId": 2565765.777777778,
+          "minutesPlayed": 86.27777777777777,
+          "playerankScore_x": 0.0020777777777777778,
+          "playerankScore_y": 0.0020777777777777778
+        },
+        {
+          "height": 188,
+          "weight": 84,
+          "wyId": 676,
+          "goalScored": 0,
+          "matchId": 2336440.789473684,
+          "minutesPlayed": 47.94736842105263,
+          "playerankScore_x": 0.004289473684210527,
+          "playerankScore_y": 0.004289473684210525
+        },
+        {
+          "height": 182,
+          "weight": 76,
+          "wyId": 701,
+          "goalScored": 0.043478260869565216,
+          "matchId": 2565743.3913043477,
+          "minutesPlayed": 66.43478260869566,
+          "playerankScore_x": 0.0058,
+          "playerankScore_y": 0.0058
+        },
+        {
+          "height": 189,
+          "weight": 80,
+          "wyId": 695,
+          "goalScored": 0.041666666666666664,
+          "matchId": 2565696.2083333335,
+          "minutesPlayed": 86.41666666666667,
+          "playerankScore_x": 0.007954166666666665,
+          "playerankScore_y": 0.00795416666666666
+        },
+        {
+          "height": 175,
+          "weight": 70,
+          "wyId": 756,
+          "goalScored": 0.029411764705882353,
+          "matchId": 2565741.882352941,
+          "minutesPlayed": 83.94117647058823,
+          "playerankScore_x": -0.018573529411764707,
+          "playerankScore_y": -0.018573529411764707
+        },
+        {
+          "height": 170,
+          "weight": 60,
+          "wyId": 692,
+          "goalScored": 0.08,
+          "matchId": 2499873.88,
+          "minutesPlayed": 48.48,
+          "playerankScore_x": 0.006971999999999999,
+          "playerankScore_y": 0.006972000000000003
+        },
+        {
+          "height": 185,
+          "weight": 76,
+          "wyId": 679,
+          "goalScored": 0.0625,
+          "matchId": 2565730.25,
+          "minutesPlayed": 74.25,
+          "playerankScore_x": 0.0014718749999999997,
+          "playerankScore_y": 0.0014718749999999992
+        },
+        {
+          "height": 177,
+          "weight": 67,
+          "wyId": 676,
+          "goalScored": 0,
+          "matchId": 2565746.8095238097,
+          "minutesPlayed": 70.9047619047619,
+          "playerankScore_x": 0.006242857142857143,
+          "playerankScore_y": 0.006242857142857144
+        },
+        {
+          "height": 193,
+          "weight": 83,
+          "wyId": 696,
+          "goalScored": 0,
+          "matchId": 2565723,
+          "minutesPlayed": 89.17647058823529,
+          "playerankScore_x": 0.010052941176470587,
+          "playerankScore_y": 0.010052941176470587
+        },
+        {
+          "height": 180,
+          "weight": 75,
+          "wyId": 696,
+          "goalScored": 0,
+          "matchId": 2565751.625,
+          "minutesPlayed": 89.54166666666667,
+          "playerankScore_x": -0.003041666666666667,
+          "playerankScore_y": -0.003041666666666666
+        },
+        {
+          "height": 180,
+          "weight": 70,
+          "wyId": 695,
+          "goalScored": 0.2857142857142857,
+          "matchId": 2565746.314285714,
+          "minutesPlayed": 88,
+          "playerankScore_x": 0.01031142857142857,
+          "playerankScore_y": 0.010311428571428577
+        },
+        {
+          "height": 180,
+          "weight": 70,
+          "wyId": 684,
+          "goalScored": 0.5,
+          "matchId": 2565686.8125,
+          "minutesPlayed": 51.75,
+          "playerankScore_x": 0.00964375,
+          "playerankScore_y": 0.009643750000000003
+        },
+        {
+          "height": 170,
+          "weight": 65,
+          "wyId": 701,
+          "goalScored": 0.04,
+          "matchId": 2565763.56,
+          "minutesPlayed": 68.12,
+          "playerankScore_x": -0.004627999999999999,
+          "playerankScore_y": -0.004627999999999997
+        },
+        {
+          "height": 186,
+          "weight": 75,
+          "wyId": 687,
+          "goalScored": 0.1111111111111111,
+          "matchId": 2565735.2592592593,
+          "minutesPlayed": 86.29629629629629,
+          "playerankScore_x": 0.009496296296296294,
+          "playerankScore_y": 0.00949629629629629
+        },
+        {
+          "height": 184,
+          "weight": 75,
+          "wyId": 696,
+          "goalScored": 0.045454545454545456,
+          "matchId": 2565736.227272727,
+          "minutesPlayed": 46.63636363636363,
+          "playerankScore_x": 0.0013545454545454542,
+          "playerankScore_y": 0.0013545454545454546
+        },
+        {
+          "height": 173,
+          "weight": 65,
+          "wyId": 679,
+          "goalScored": 0,
+          "matchId": 2057962,
+          "minutesPlayed": 31,
+          "playerankScore_x": 0.002,
+          "playerankScore_y": 0.002
+        },
+        {
+          "height": 185,
+          "weight": 77,
+          "wyId": 679,
+          "goalScored": 0.08,
+          "matchId": 2484503.16,
+          "minutesPlayed": 81.12,
+          "playerankScore_x": 0.012008000000000001,
+          "playerankScore_y": 0.012008000000000001
+        },
+        {
+          "height": 173,
+          "weight": 70,
+          "wyId": 714,
+          "goalScored": 0.24324324324324326,
+          "matchId": 2565736.3243243243,
+          "minutesPlayed": 84.02702702702703,
+          "playerankScore_x": 0.006613513513513513,
+          "playerankScore_y": 0.006613513513513518
+        },
+        {
+          "height": 183,
+          "weight": 78,
+          "wyId": 678,
+          "goalScored": 0,
+          "matchId": 2565841.5,
+          "minutesPlayed": 84.25,
+          "playerankScore_x": 0.006200000000000001,
+          "playerankScore_y": 0.006200000000000001
+        },
+        {
+          "height": 180,
+          "weight": 73,
+          "wyId": 678,
+          "goalScored": 0,
+          "matchId": 2565730.6071428573,
+          "minutesPlayed": 74.03571428571429,
+          "playerankScore_x": 0.0013357142857142873,
+          "playerankScore_y": 0.0013357142857142873
+        },
+        {
+          "height": 177,
+          "weight": 70,
+          "wyId": 756,
+          "goalScored": 0,
+          "matchId": 2565726.7333333334,
+          "minutesPlayed": 85.1,
+          "playerankScore_x": 0.0032599999999999994,
+          "playerankScore_y": 0.0032599999999999994
+        },
+        {
+          "height": 169,
+          "weight": 65,
+          "wyId": 677,
+          "goalScored": 0.10526315789473684,
+          "matchId": 2565660.6842105263,
+          "minutesPlayed": 69.89473684210526,
+          "playerankScore_x": 0.00871578947368421,
+          "playerankScore_y": 0.008715789473684208
+        },
+        {
+          "height": 170,
+          "weight": 65,
+          "wyId": 714,
+          "goalScored": 0.1,
+          "matchId": 2565792.9,
+          "minutesPlayed": 68.15,
+          "playerankScore_x": 0.0043,
+          "playerankScore_y": 0.004299999999999999
+        },
+        {
+          "height": 183,
+          "weight": 77,
+          "wyId": 695,
+          "goalScored": 0,
+          "matchId": 2565807.533333333,
+          "minutesPlayed": 66.33333333333333,
+          "playerankScore_x": 0.008846666666666668,
+          "playerankScore_y": 0.008846666666666668
+        },
+        {
+          "height": 168,
+          "weight": 71,
+          "wyId": 677,
+          "goalScored": 0,
+          "matchId": 2565717.5263157897,
+          "minutesPlayed": 46.26315789473684,
+          "playerankScore_x": 0.0022947368421052613,
+          "playerankScore_y": 0.002294736842105261
+        },
+        {
+          "height": 178,
+          "weight": 72,
+          "wyId": 674,
+          "goalScored": 0.05,
+          "matchId": 2565696.2,
+          "minutesPlayed": 52.7,
+          "playerankScore_x": 0.005240000000000001,
+          "playerankScore_y": 0.005239999999999998
+        },
+        {
+          "height": 171,
+          "weight": 64,
+          "wyId": 692,
+          "goalScored": 0.13157894736842105,
+          "matchId": 2512275.210526316,
+          "minutesPlayed": 72.71052631578948,
+          "playerankScore_x": 0.011855263157894732,
+          "playerankScore_y": 0.011855263157894744
+        },
+        {
+          "height": 186,
+          "weight": 76,
+          "wyId": 678,
+          "goalScored": 0.1891891891891892,
+          "matchId": 2565735.4864864866,
+          "minutesPlayed": 76.75675675675676,
+          "playerankScore_x": 0.015727027027027028,
+          "playerankScore_y": 0.01572702702702703
+        },
+        {
+          "height": 184,
+          "weight": 75,
+          "wyId": 683,
+          "goalScored": 0.05555555555555555,
+          "matchId": 2565743.5,
+          "minutesPlayed": 79.66666666666667,
+          "playerankScore_x": 0.005644444444444443,
+          "playerankScore_y": 0.0056444444444444415
+        },
+        {
+          "height": 185,
+          "weight": 76,
+          "wyId": 701,
+          "goalScored": 0.17647058823529413,
+          "matchId": 2565744.1470588236,
+          "minutesPlayed": 71.08823529411765,
+          "playerankScore_x": 0.0025647058823529425,
+          "playerankScore_y": 0.0025647058823529416
+        },
+        {
+          "height": 173,
+          "weight": 61,
+          "wyId": 684,
+          "goalScored": 0,
+          "matchId": 2565735,
+          "minutesPlayed": 44.333333333333336,
+          "playerankScore_x": 0.006533333333333335,
+          "playerankScore_y": 0.006533333333333335
+        },
+        {
+          "height": 183,
+          "weight": 76,
+          "wyId": 684,
+          "goalScored": 0.043478260869565216,
+          "matchId": 2565703.1739130435,
+          "minutesPlayed": 54.34782608695652,
+          "playerankScore_x": 0.005678260869565219,
+          "playerankScore_y": 0.005678260869565217
+        },
+        {
+          "height": 178,
+          "weight": 65,
+          "wyId": 695,
+          "goalScored": 0.037037037037037035,
+          "matchId": 2565736.777777778,
+          "minutesPlayed": 66.48148148148148,
+          "playerankScore_x": 0.0029814814814814804,
+          "playerankScore_y": 0.002981481481481479
+        },
+        {
+          "height": 177,
+          "weight": 73,
+          "wyId": 696,
+          "goalScored": 0.11764705882352941,
+          "matchId": 2565680.588235294,
+          "minutesPlayed": 59.470588235294116,
+          "playerankScore_x": -0.0011999999999999997,
+          "playerankScore_y": -0.0011999999999999997
+        },
+        {
+          "height": 187,
+          "weight": 72,
+          "wyId": 698,
+          "goalScored": 0.027777777777777776,
+          "matchId": 2565734.472222222,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.008319444444444442,
+          "playerankScore_y": 0.008319444444444437
+        },
+        {
+          "height": 181,
+          "weight": 77,
+          "wyId": 674,
+          "goalScored": 0.4,
+          "matchId": 2565722.8666666667,
+          "minutesPlayed": 51.5,
+          "playerankScore_x": 0.009546666666666665,
+          "playerankScore_y": 0.009546666666666667
+        },
+        {
+          "height": 182,
+          "weight": 70,
+          "wyId": 696,
+          "goalScored": 0,
+          "matchId": 2565609.8333333335,
+          "minutesPlayed": 74.66666666666667,
+          "playerankScore_x": -0.0020833333333333333,
+          "playerankScore_y": -0.0020833333333333333
+        },
+        {
+          "height": 174,
+          "weight": 74,
+          "wyId": 695,
+          "goalScored": 0.10714285714285714,
+          "matchId": 2565715.9285714286,
+          "minutesPlayed": 62.392857142857146,
+          "playerankScore_x": -0.0020035714285714283,
+          "playerankScore_y": -0.002003571428571429
+        },
+        {
+          "height": 172,
+          "weight": 67,
+          "wyId": 679,
+          "goalScored": 0.21621621621621623,
+          "matchId": 2565733.621621622,
+          "minutesPlayed": 61.270270270270274,
+          "playerankScore_x": 0.011821621621621623,
+          "playerankScore_y": 0.011821621621621632
+        },
+        {
+          "height": 188,
+          "weight": 80,
+          "wyId": 701,
+          "goalScored": 0,
+          "matchId": 2500770.1875,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.0085875,
+          "playerankScore_y": 0.0085875
+        },
+        {
+          "height": 179,
+          "weight": 73,
+          "wyId": 695,
+          "goalScored": 0,
+          "matchId": 2565684.4,
+          "minutesPlayed": 81.4,
+          "playerankScore_x": 0.00114,
+          "playerankScore_y": 0.00114
+        },
+        {
+          "height": 185,
+          "weight": 83,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565672.3076923075,
+          "minutesPlayed": 62.07692307692308,
+          "playerankScore_x": 0.009361538461538465,
+          "playerankScore_y": 0.009361538461538465
+        },
+        {
+          "height": 182,
+          "weight": 75,
+          "wyId": 687,
+          "goalScored": 0.14285714285714285,
+          "matchId": 2547619.3928571427,
+          "minutesPlayed": 59,
+          "playerankScore_x": 0.013728571428571432,
+          "playerankScore_y": 0.013728571428571427
+        },
+        {
+          "height": 187,
+          "weight": 77,
+          "wyId": 712,
+          "goalScored": 0.047619047619047616,
+          "matchId": 2565758.619047619,
+          "minutesPlayed": 68,
+          "playerankScore_x": 0.0035761904761904754,
+          "playerankScore_y": 0.003576190476190474
+        },
+        {
+          "height": 178,
+          "weight": 72,
+          "wyId": 680,
+          "goalScored": 0,
+          "matchId": 2565552,
+          "minutesPlayed": 54,
+          "playerankScore_x": -0.003,
+          "playerankScore_y": -0.003
+        },
+        {
+          "height": 173,
+          "weight": 68,
+          "wyId": 756,
+          "goalScored": 0,
+          "matchId": 2565736.1818181816,
+          "minutesPlayed": 80.3030303030303,
+          "playerankScore_x": -0.0029666666666666665,
+          "playerankScore_y": -0.0029666666666666687
+        },
+        {
+          "height": 181,
+          "weight": 79,
+          "wyId": 695,
+          "goalScored": 0,
+          "matchId": 2565685,
+          "minutesPlayed": 40.5,
+          "playerankScore_x": 0.0018000000000000002,
+          "playerankScore_y": 0.0018000000000000002
+        },
+        {
+          "height": 182,
+          "weight": 72,
+          "wyId": 712,
+          "goalScored": 0.09090909090909091,
+          "matchId": 2565763.8181818184,
+          "minutesPlayed": 48.54545454545455,
+          "playerankScore_x": -0.005745454545454546,
+          "playerankScore_y": -0.005745454545454546
+        },
+        {
+          "height": 184,
+          "weight": 75,
+          "wyId": 674,
+          "goalScored": 0,
+          "matchId": 2565796.4444444445,
+          "minutesPlayed": 57.333333333333336,
+          "playerankScore_x": 0.005244444444444446,
+          "playerankScore_y": 0.0052444444444444465
+        },
+        {
+          "height": 188,
+          "weight": 80,
+          "wyId": 756,
+          "goalScored": 0.375,
+          "matchId": 2565774.625,
+          "minutesPlayed": 47.375,
+          "playerankScore_x": 0.0078875,
+          "playerankScore_y": 0.0078875
+        },
+        {
+          "height": 180,
+          "weight": 76,
+          "wyId": 682,
+          "goalScored": 0.14285714285714285,
+          "matchId": 2565824.714285714,
+          "minutesPlayed": 32.142857142857146,
+          "playerankScore_x": 0.0033285714285714294,
+          "playerankScore_y": 0.00332857142857143
+        },
+        {
+          "height": 185,
+          "weight": 81,
+          "wyId": 692,
+          "goalScored": 0.10344827586206896,
+          "matchId": 2565730.6896551726,
+          "minutesPlayed": 62.241379310344826,
+          "playerankScore_x": 0.008910344827586205,
+          "playerankScore_y": 0.008910344827586207
+        },
+        {
+          "height": 185,
+          "weight": 75,
+          "wyId": 682,
+          "goalScored": 0.21428571428571427,
+          "matchId": 2565733.285714286,
+          "minutesPlayed": 60.32142857142857,
+          "playerankScore_x": 0.011664285714285712,
+          "playerankScore_y": 0.011664285714285719
+        },
+        {
+          "height": 179,
+          "weight": 73,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565699,
+          "minutesPlayed": 30.76923076923077,
+          "playerankScore_x": -0.0015692307692307687,
+          "playerankScore_y": -0.0015692307692307683
+        },
+        {
+          "height": 177,
+          "weight": 75,
+          "wyId": 677,
+          "goalScored": 0,
+          "matchId": 2565793,
+          "minutesPlayed": 76,
+          "playerankScore_x": 0.0066,
+          "playerankScore_y": 0.0066
+        },
+        {
+          "height": 178,
+          "weight": 73,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565710.785714286,
+          "minutesPlayed": 79.35714285714286,
+          "playerankScore_x": -0.00032142857142857174,
+          "playerankScore_y": -0.0003214285714285718
+        },
+        {
+          "height": 186,
+          "weight": 75,
+          "wyId": 695,
+          "goalScored": 0,
+          "matchId": 2565815.5833333335,
+          "minutesPlayed": 85.75,
+          "playerankScore_x": 0.012424999999999999,
+          "playerankScore_y": 0.012424999999999997
+        },
+        {
+          "height": 175,
+          "weight": 69,
+          "wyId": 696,
+          "goalScored": 0.30303030303030304,
+          "matchId": 2565739.515151515,
+          "minutesPlayed": 74.84848484848484,
+          "playerankScore_x": 0.0033060606060606036,
+          "playerankScore_y": 0.0033060606060606036
+        },
+        {
+          "height": 180,
+          "weight": 71,
+          "wyId": 687,
+          "goalScored": 0.15789473684210525,
+          "matchId": 2565724.263157895,
+          "minutesPlayed": 84.10526315789474,
+          "playerankScore_x": 0.015168421052631583,
+          "playerankScore_y": 0.015168421052631586
+        },
+        {
+          "height": 175,
+          "weight": 66,
+          "wyId": 675,
+          "goalScored": 0,
+          "matchId": 2565722.2647058824,
+          "minutesPlayed": 85.61764705882354,
+          "playerankScore_x": 0.0008323529411764695,
+          "playerankScore_y": 0.000832352941176469
+        },
+        {
+          "height": 185,
+          "weight": 72,
+          "wyId": 677,
+          "goalScored": 0.5,
+          "matchId": 2565884,
+          "minutesPlayed": 69.5,
+          "playerankScore_x": 0.014450000000000001,
+          "playerankScore_y": 0.014450000000000001
+        },
+        {
+          "height": 184,
+          "weight": 74,
+          "wyId": 691,
+          "goalScored": 0.045454545454545456,
+          "matchId": 2565701.0454545454,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.007454545454545456,
+          "playerankScore_y": 0.007454545454545456
+        },
+        {
+          "height": 184,
+          "weight": 73,
+          "wyId": 675,
+          "goalScored": 0,
+          "matchId": 2565726.8333333335,
+          "minutesPlayed": 44.833333333333336,
+          "playerankScore_x": 0.005725,
+          "playerankScore_y": 0.005725
+        },
+        {
+          "height": 184,
+          "weight": 76,
+          "wyId": 679,
+          "goalScored": 0,
+          "matchId": 2458038.696969697,
+          "minutesPlayed": 84.12121212121212,
+          "playerankScore_x": 0.003563636363636364,
+          "playerankScore_y": 0.003563636363636365
+        },
+        {
+          "height": 186,
+          "weight": 77,
+          "wyId": 701,
+          "goalScored": 0.05263157894736842,
+          "matchId": 2565755.8421052634,
+          "minutesPlayed": 59,
+          "playerankScore_x": -0.001963157894736842,
+          "playerankScore_y": -0.001963157894736841
+        },
+        {
+          "height": 174,
+          "weight": 73,
+          "wyId": 687,
+          "goalScored": 0,
+          "matchId": 2565687,
+          "minutesPlayed": 38,
+          "playerankScore_x": -0.0007999999999999999,
+          "playerankScore_y": -0.0007999999999999999
+        },
+        {
+          "height": 179,
+          "weight": 64,
+          "wyId": 687,
+          "goalScored": 0,
+          "matchId": 2565780.5,
+          "minutesPlayed": 18,
+          "playerankScore_x": 0.0004,
+          "playerankScore_y": 0.0004
+        },
+        {
+          "height": 180,
+          "weight": 72,
+          "wyId": 687,
+          "goalScored": 0.3333333333333333,
+          "matchId": 2565726,
+          "minutesPlayed": 36,
+          "playerankScore_x": 0.0074,
+          "playerankScore_y": 0.0074
+        },
+        {
+          "height": 169,
+          "weight": 64,
+          "wyId": 695,
+          "goalScored": 0.375,
+          "matchId": 2565717.1666666665,
+          "minutesPlayed": 64.66666666666667,
+          "playerankScore_x": -0.0007708333333333346,
+          "playerankScore_y": -0.0007708333333333348
+        },
+        {
+          "height": 169,
+          "weight": 64,
+          "wyId": 692,
+          "goalScored": 0.05263157894736842,
+          "matchId": 2474014.8421052634,
+          "minutesPlayed": 36.578947368421055,
+          "playerankScore_x": 0.007763157894736843,
+          "playerankScore_y": 0.007763157894736844
+        },
+        {
+          "height": 180,
+          "weight": 72,
+          "wyId": 691,
+          "goalScored": 0,
+          "matchId": 2565714.53125,
+          "minutesPlayed": 88.0625,
+          "playerankScore_x": -0.008325,
+          "playerankScore_y": -0.008325
+        },
+        {
+          "height": 183,
+          "weight": 74,
+          "wyId": 675,
+          "goalScored": 0,
+          "matchId": 2565787.4285714286,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.011342857142857144,
+          "playerankScore_y": 0.011342857142857142
+        },
+        {
+          "height": 183,
+          "weight": 75,
+          "wyId": 682,
+          "goalScored": 0,
+          "matchId": 2565661.6666666665,
+          "minutesPlayed": 21,
+          "playerankScore_x": -0.004033333333333333,
+          "playerankScore_y": -0.004033333333333333
+        },
+        {
+          "height": 173,
+          "weight": 74,
+          "wyId": 756,
+          "goalScored": 0.058823529411764705,
+          "matchId": 2565756.7647058824,
+          "minutesPlayed": 49.35294117647059,
+          "playerankScore_x": 0.0008235294117647058,
+          "playerankScore_y": 0.0008235294117647057
+        },
+        {
+          "height": 182,
+          "weight": 90,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565849.5555555555,
+          "minutesPlayed": 54.77777777777778,
+          "playerankScore_x": 0.007266666666666668,
+          "playerankScore_y": 0.0072666666666666695
+        },
+        {
+          "height": 178,
+          "weight": 67,
+          "wyId": 676,
+          "goalScored": 0.15,
+          "matchId": 2489629.3,
+          "minutesPlayed": 54.7,
+          "playerankScore_x": 0.024865,
+          "playerankScore_y": 0.024865000000000012
+        },
+        {
+          "height": 175,
+          "weight": 74,
+          "wyId": 698,
+          "goalScored": 0.038461538461538464,
+          "matchId": 2565696.846153846,
+          "minutesPlayed": 84.57692307692308,
+          "playerankScore_x": 0.0016269230769230746,
+          "playerankScore_y": 0.0016269230769230746
+        },
+        {
+          "height": 191,
+          "weight": 84,
+          "wyId": 678,
+          "goalScored": 0.09090909090909091,
+          "matchId": 2565679.090909091,
+          "minutesPlayed": 73.27272727272727,
+          "playerankScore_x": 0.005336363636363636,
+          "playerankScore_y": 0.0053363636363636365
+        },
+        {
+          "height": 181,
+          "weight": 73,
+          "wyId": 682,
+          "goalScored": 0,
+          "matchId": 2565811,
+          "minutesPlayed": 77.33333333333333,
+          "playerankScore_x": 0.0008333333333333334,
+          "playerankScore_y": 0.0008333333333333334
+        },
+        {
+          "height": 175,
+          "weight": 70,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565790.25,
+          "minutesPlayed": 40.75,
+          "playerankScore_x": -0.0015000000000000005,
+          "playerankScore_y": -0.0015000000000000005
+        },
+        {
+          "height": 182,
+          "weight": 76,
+          "wyId": 675,
+          "goalScored": 0.17647058823529413,
+          "matchId": 2520929.970588235,
+          "minutesPlayed": 57.73529411764706,
+          "playerankScore_x": 0.02071470588235294,
+          "playerankScore_y": 0.020714705882352923
+        },
+        {
+          "height": 189,
+          "weight": 78,
+          "wyId": 674,
+          "goalScored": 0.1,
+          "matchId": 2500847.9,
+          "minutesPlayed": 71.7,
+          "playerankScore_x": 0.01192,
+          "playerankScore_y": 0.01192
+        },
+        {
+          "height": 170,
+          "weight": 69,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565796.6315789474,
+          "minutesPlayed": 49.89473684210526,
+          "playerankScore_x": 0.002747368421052632,
+          "playerankScore_y": 0.002747368421052631
+        },
+        {
+          "height": 180,
+          "weight": 73,
+          "wyId": 674,
+          "goalScored": 0.16666666666666666,
+          "matchId": 2565722.8333333335,
+          "minutesPlayed": 72.16666666666667,
+          "playerankScore_x": 0.004483333333333333,
+          "playerankScore_y": 0.004483333333333333
+        },
+        {
+          "height": 187,
+          "weight": 0,
+          "wyId": 692,
+          "goalScored": 0.05263157894736842,
+          "matchId": 2565794.1052631577,
+          "minutesPlayed": 50.10526315789474,
+          "playerankScore_x": 0.005478947368421053,
+          "playerankScore_y": 0.005478947368421055
+        },
+        {
+          "height": 179,
+          "weight": 70,
+          "wyId": 675,
+          "goalScored": 0.2222222222222222,
+          "matchId": 2565736.4444444445,
+          "minutesPlayed": 42.666666666666664,
+          "playerankScore_x": 0.009955555555555558,
+          "playerankScore_y": 0.009955555555555558
+        },
+        {
+          "height": 171,
+          "weight": 64,
+          "wyId": 674,
+          "goalScored": 0,
+          "matchId": 2565718.8181818184,
+          "minutesPlayed": 69.0909090909091,
+          "playerankScore_x": 0.00031818181818181923,
+          "playerankScore_y": 0.0003181818181818192
+        },
+        {
+          "height": 180,
+          "weight": 80,
+          "wyId": 692,
+          "goalScored": 0,
+          "matchId": 2570968.1,
+          "minutesPlayed": 20.1,
+          "playerankScore_x": -0.0017599999999999998,
+          "playerankScore_y": -0.00176
+        },
+        {
+          "height": 176,
+          "weight": 74,
+          "wyId": 680,
+          "goalScored": 0,
+          "matchId": 2565829,
+          "minutesPlayed": 64,
+          "playerankScore_x": -0.0004333333333333336,
+          "playerankScore_y": -0.0004333333333333336
+        },
+        {
+          "height": 175,
+          "weight": 67,
+          "wyId": 695,
+          "goalScored": 0.2608695652173913,
+          "matchId": 2565757.4782608696,
+          "minutesPlayed": 54.69565217391305,
+          "playerankScore_x": 0.007956521739130435,
+          "playerankScore_y": 0.007956521739130437
+        },
+        {
+          "height": 187,
+          "weight": 79,
+          "wyId": 687,
+          "goalScored": 0.045454545454545456,
+          "matchId": 2499864.3181818184,
+          "minutesPlayed": 60.40909090909091,
+          "playerankScore_x": 0.004604545454545455,
+          "playerankScore_y": 0.0046045454545454575
+        },
+        {
+          "height": 188,
+          "weight": 79,
+          "wyId": 691,
+          "goalScored": 0.058823529411764705,
+          "matchId": 2565769,
+          "minutesPlayed": 62.88235294117647,
+          "playerankScore_x": -0.007976470588235293,
+          "playerankScore_y": -0.007976470588235293
+        },
+        {
+          "height": 184,
+          "weight": 74,
+          "wyId": 691,
+          "goalScored": 0,
+          "matchId": 2565765.5,
+          "minutesPlayed": 32.875,
+          "playerankScore_x": 0.0021000000000000003,
+          "playerankScore_y": 0.0021000000000000007
+        },
+        {
+          "height": 186,
+          "weight": 81,
+          "wyId": 678,
+          "goalScored": 0.030303030303030304,
+          "matchId": 2565728.4242424243,
+          "minutesPlayed": 89.15151515151516,
+          "playerankScore_x": 0.010357575757575762,
+          "playerankScore_y": 0.010357575757575767
+        },
+        {
+          "height": 180,
+          "weight": 74,
+          "wyId": 678,
+          "goalScored": 0.04,
+          "matchId": 2565760.04,
+          "minutesPlayed": 57.72,
+          "playerankScore_x": 0.0011440000000000016,
+          "playerankScore_y": 0.001144000000000002
+        },
+        {
+          "height": 182,
+          "weight": 74,
+          "wyId": 675,
+          "goalScored": 0.375,
+          "matchId": 2565761,
+          "minutesPlayed": 40.125,
+          "playerankScore_x": 0.0262625,
+          "playerankScore_y": 0.026262499999999998
+        },
+        {
+          "height": 184,
+          "weight": 82,
+          "wyId": 675,
+          "goalScored": 0,
+          "matchId": 2565749,
+          "minutesPlayed": 79.33333333333333,
+          "playerankScore_x": 0.004916666666666666,
+          "playerankScore_y": 0.004916666666666666
+        },
+        {
+          "height": 173,
+          "weight": 63,
+          "wyId": 698,
+          "goalScored": 0.08108108108108109,
+          "matchId": 2565735.243243243,
+          "minutesPlayed": 77.97297297297297,
+          "playerankScore_x": 0.004772972972972975,
+          "playerankScore_y": 0.004772972972972974
+        },
+        {
+          "height": 189,
+          "weight": 70,
+          "wyId": 684,
+          "goalScored": 0.08823529411764706,
+          "matchId": 2565754.0588235296,
+          "minutesPlayed": 78.29411764705883,
+          "playerankScore_x": 0.01924705882352941,
+          "playerankScore_y": 0.0192470588235294
+        },
+        {
+          "height": 184,
+          "weight": 74,
+          "wyId": 696,
+          "goalScored": 0.5,
+          "matchId": 2565913,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.037750000000000006,
+          "playerankScore_y": 0.037750000000000006
+        },
+        {
+          "height": 180,
+          "weight": 70,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565867,
+          "minutesPlayed": 20,
+          "playerankScore_x": -0.005200000000000001,
+          "playerankScore_y": -0.005200000000000001
+        },
+        {
+          "height": 181,
+          "weight": 78,
+          "wyId": 687,
+          "goalScored": 0.34285714285714286,
+          "matchId": 2565751.1142857145,
+          "minutesPlayed": 79.54285714285714,
+          "playerankScore_x": 0.015277142857142855,
+          "playerankScore_y": 0.015277142857142866
+        },
+        {
+          "height": 182,
+          "weight": 75,
+          "wyId": 696,
+          "goalScored": 0.09090909090909091,
+          "matchId": 2565721.4242424243,
+          "minutesPlayed": 74,
+          "playerankScore_x": 0.00672727272727273,
+          "playerankScore_y": 0.006727272727272727
+        },
+        {
+          "height": 181,
+          "weight": 76,
+          "wyId": 677,
+          "goalScored": 0,
+          "matchId": 2565705.736842105,
+          "minutesPlayed": 61.26315789473684,
+          "playerankScore_x": 0.004615789473684211,
+          "playerankScore_y": 0.004615789473684211
+        },
+        {
+          "height": 180,
+          "weight": 66,
+          "wyId": 684,
+          "goalScored": 0.4666666666666667,
+          "matchId": 2565843.533333333,
+          "minutesPlayed": 70.86666666666666,
+          "playerankScore_x": 0.012539999999999999,
+          "playerankScore_y": 0.012539999999999997
+        },
+        {
+          "height": 184,
+          "weight": 78,
+          "wyId": 684,
+          "goalScored": 0.14285714285714285,
+          "matchId": 2565837.9285714286,
+          "minutesPlayed": 85,
+          "playerankScore_x": 0.013478571428571428,
+          "playerankScore_y": 0.013478571428571425
+        },
+        {
+          "height": 190,
+          "weight": 78,
+          "wyId": 682,
+          "goalScored": 0.02702702702702703,
+          "matchId": 2565736.1621621624,
+          "minutesPlayed": 87.24324324324324,
+          "playerankScore_x": 0.01356216216216216,
+          "playerankScore_y": 0.01356216216216216
+        },
+        {
+          "height": 187,
+          "weight": 69,
+          "wyId": 696,
+          "goalScored": 0,
+          "matchId": 2565779.6666666665,
+          "minutesPlayed": 73,
+          "playerankScore_x": -0.0014999999999999998,
+          "playerankScore_y": -0.0014999999999999998
+        },
+        {
+          "height": 180,
+          "weight": 76,
+          "wyId": 674,
+          "goalScored": 0.030303030303030304,
+          "matchId": 2565739.242424242,
+          "minutesPlayed": 72,
+          "playerankScore_x": 0.011881818181818184,
+          "playerankScore_y": 0.011881818181818177
+        },
+        {
+          "height": 185,
+          "weight": 0,
+          "wyId": 684,
+          "goalScored": 0.07142857142857142,
+          "matchId": 2565734.785714286,
+          "minutesPlayed": 70.92857142857143,
+          "playerankScore_x": 0.0008642857142857142,
+          "playerankScore_y": 0.0008642857142857145
+        },
+        {
+          "height": 184,
+          "weight": 78,
+          "wyId": 698,
+          "goalScored": 0.5,
+          "matchId": 2565782.5,
+          "minutesPlayed": 50.5,
+          "playerankScore_x": 0.00655,
+          "playerankScore_y": 0.00655
+        },
+        {
+          "height": 178,
+          "weight": 63,
+          "wyId": 698,
+          "goalScored": 0,
+          "matchId": 2565829.25,
+          "minutesPlayed": 13.25,
+          "playerankScore_x": -0.003275,
+          "playerankScore_y": -0.003275
+        },
+        {
+          "height": 179,
+          "weight": 76,
+          "wyId": 701,
+          "goalScored": 0.3333333333333333,
+          "matchId": 2565735.5833333335,
+          "minutesPlayed": 64.375,
+          "playerankScore_x": 0.007075000000000001,
+          "playerankScore_y": 0.007074999999999999
+        },
+        {
+          "height": 170,
+          "weight": 66,
+          "wyId": 684,
+          "goalScored": 0,
+          "matchId": 2565697,
+          "minutesPlayed": 15,
+          "playerankScore_x": -0.0018000000000000002,
+          "playerankScore_y": -0.0018000000000000002
+        },
+        {
+          "height": 180,
+          "weight": 72,
+          "wyId": 714,
+          "goalScored": 0,
+          "matchId": 2565729.769230769,
+          "minutesPlayed": 46.69230769230769,
+          "playerankScore_x": 0.001861538461538461,
+          "playerankScore_y": 0.0018615384615384607
+        },
+        {
+          "height": 180,
+          "weight": 79,
+          "wyId": 687,
+          "goalScored": 0.043478260869565216,
+          "matchId": 2565742.086956522,
+          "minutesPlayed": 69.47826086956522,
+          "playerankScore_x": 0.010399999999999996,
+          "playerankScore_y": 0.010399999999999994
+        },
+        {
+          "height": 186,
+          "weight": 87,
+          "wyId": 692,
+          "goalScored": 0.4594594594594595,
+          "matchId": 2552014.5135135134,
+          "minutesPlayed": 84.05405405405405,
+          "playerankScore_x": 0.016048648648648644,
+          "playerankScore_y": 0.016048648648648637
+        },
+        {
+          "height": 175,
+          "weight": 63,
+          "wyId": 712,
+          "goalScored": 0,
+          "matchId": 2565756,
+          "minutesPlayed": 22,
+          "playerankScore_x": -0.0006000000000000001,
+          "playerankScore_y": -0.0006000000000000001
+        },
+        {
+          "height": 183,
+          "weight": 77,
+          "wyId": 674,
+          "goalScored": 0,
+          "matchId": 2565844.1428571427,
+          "minutesPlayed": 34.142857142857146,
+          "playerankScore_x": 0.008385714285714286,
+          "playerankScore_y": 0.008385714285714286
+        },
+        {
+          "height": 175,
+          "weight": 70,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565618.1666666665,
+          "minutesPlayed": 69.66666666666667,
+          "playerankScore_x": -0.0005999999999999998,
+          "playerankScore_y": -0.0005999999999999998
+        },
+        {
+          "height": 179,
+          "weight": 72,
+          "wyId": 682,
+          "goalScored": 0.09090909090909091,
+          "matchId": 2565725.3333333335,
+          "minutesPlayed": 78.9090909090909,
+          "playerankScore_x": 0.01973030303030303,
+          "playerankScore_y": 0.01973030303030303
+        },
+        {
+          "height": 191,
+          "weight": 80,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565759,
+          "minutesPlayed": 25,
+          "playerankScore_x": -0.00165,
+          "playerankScore_y": -0.00165
+        },
+        {
+          "height": 182,
+          "weight": 74,
+          "wyId": 682,
+          "goalScored": 0,
+          "matchId": 2565687,
+          "minutesPlayed": 39,
+          "playerankScore_x": -0.0155,
+          "playerankScore_y": -0.0155
+        },
+        {
+          "height": 0,
+          "weight": 0,
+          "wyId": 696,
+          "goalScored": 0,
+          "matchId": 2565906,
+          "minutesPlayed": 61,
+          "playerankScore_x": 0.0482,
+          "playerankScore_y": 0.0482
+        },
+        {
+          "height": 170,
+          "weight": 68,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565921,
+          "minutesPlayed": 90,
+          "playerankScore_x": 0.0039000000000000003,
+          "playerankScore_y": 0.0039000000000000003
+        },
+        {
+          "height": 170,
+          "weight": 72,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565643.6666666665,
+          "minutesPlayed": 31.75,
+          "playerankScore_x": -0.0006500000000000004,
+          "playerankScore_y": -0.0006500000000000004
+        },
+        {
+          "height": 182,
+          "weight": 74,
+          "wyId": 695,
+          "goalScored": 0,
+          "matchId": 2565739.76,
+          "minutesPlayed": 76.16,
+          "playerankScore_x": 0.005484000000000002,
+          "playerankScore_y": 0.005484000000000001
+        },
+        {
+          "height": 184,
+          "weight": 74,
+          "wyId": 682,
+          "goalScored": 0.1,
+          "matchId": 2565791.9,
+          "minutesPlayed": 56.95,
+          "playerankScore_x": 0.0039599999999999965,
+          "playerankScore_y": 0.0039599999999999965
+        },
+        {
+          "height": 178,
+          "weight": 65,
+          "wyId": 756,
+          "goalScored": 0,
+          "matchId": 2565652.3636363638,
+          "minutesPlayed": 25.727272727272727,
+          "playerankScore_x": 0.004727272727272727,
+          "playerankScore_y": 0.004727272727272727
+        },
+        {
+          "height": 189,
+          "weight": 73,
+          "wyId": 712,
+          "goalScored": 0.20833333333333334,
+          "matchId": 2544625.0416666665,
+          "minutesPlayed": 66.66666666666667,
+          "playerankScore_x": 0.004274999999999999,
+          "playerankScore_y": 0.004275
+        },
+        {
+          "height": 167,
+          "weight": 63,
+          "wyId": 691,
+          "goalScored": 0,
+          "matchId": 2565784.533333333,
+          "minutesPlayed": 43.13333333333333,
+          "playerankScore_x": 0.006400000000000001,
+          "playerankScore_y": 0.006400000000000002
+        },
+        {
+          "height": 173,
+          "weight": 68,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565910,
+          "minutesPlayed": 43,
+          "playerankScore_x": 0.0018000000000000002,
+          "playerankScore_y": 0.0018000000000000002
+        },
+        {
+          "height": 178,
+          "weight": 68,
+          "wyId": 683,
+          "goalScored": 0,
+          "matchId": 2565609,
+          "minutesPlayed": 67.375,
+          "playerankScore_x": 0.008,
+          "playerankScore_y": 0.008
+        },
+        {
+          "height": 0,
+          "weight": 0,
+          "wyId": 712,
+          "goalScored": 0,
+          "matchId": 2565872,
+          "minutesPlayed": 22,
+          "playerankScore_x": -0.0021000000000000003,
+          "playerankScore_y": -0.0021000000000000003
+        },
+        {
+          "height": 184,
+          "weight": 78,
+          "wyId": 714,
+          "goalScored": 0.125,
+          "matchId": 2565856.125,
+          "minutesPlayed": 55.5,
+          "playerankScore_x": 0.0049,
+          "playerankScore_y": 0.004900000000000001
+        },
+        {
+          "height": 178,
+          "weight": 69,
+          "wyId": 696,
+          "goalScored": 0,
+          "matchId": 2565802.523809524,
+          "minutesPlayed": 87.04761904761905,
+          "playerankScore_x": 0.008500000000000002,
+          "playerankScore_y": 0.008500000000000004
+        },
+        {
+          "height": 178,
+          "weight": 68,
+          "wyId": 677,
+          "goalScored": 0,
+          "matchId": 2565704.5,
+          "minutesPlayed": 43,
+          "playerankScore_x": -0.0034000000000000002,
+          "playerankScore_y": -0.0034000000000000002
+        },
+        {
+          "height": 188,
+          "weight": 75,
+          "wyId": 698,
+          "goalScored": 0,
+          "matchId": 2565889.5,
+          "minutesPlayed": 56,
+          "playerankScore_x": 0.00585,
+          "playerankScore_y": 0.00585
+        },
+        {
+          "height": 0,
+          "weight": 0,
+          "wyId": 698,
+          "goalScored": 0,
+          "matchId": 2565898,
+          "minutesPlayed": 63,
+          "playerankScore_x": 0.005200000000000001,
+          "playerankScore_y": 0.005200000000000001
+        }
+      ]
+    },
+    {
+      "name": "data_1",
+      "source": "data-226bcae9ee26470e77b48888b5b7c6a0",
+      "transform": [
+        {
+          "type": "extent",
+          "field": "playerankScore_x",
+          "signal": "layer_0_bin_maxbins_10_playerankScore_x_extent"
+        },
+        {
+          "type": "bin",
+          "field": "playerankScore_x",
+          "as": [
+            "bin_maxbins_10_playerankScore_x",
+            "bin_maxbins_10_playerankScore_x_end"
+          ],
+          "signal": "layer_0_bin_maxbins_10_playerankScore_x_bins",
+          "maxbins": 10,
+          "extent": {"signal": "layer_0_bin_maxbins_10_playerankScore_x_extent"}
+        },
+        {
+          "type": "aggregate",
+          "groupby": [
+            "bin_maxbins_10_playerankScore_x",
+            "bin_maxbins_10_playerankScore_x_end"
+          ],
+          "ops": ["count"],
+          "fields": [null],
+          "as": ["__count"]
+        },
+        {
+          "type": "filter",
+          "expr": "datum[\"bin_maxbins_10_playerankScore_x\"] !== null && !isNaN(datum[\"bin_maxbins_10_playerankScore_x\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_2",
+      "source": "data-226bcae9ee26470e77b48888b5b7c6a0",
+      "transform": [
+        {
+          "type": "aggregate",
+          "groupby": [],
+          "ops": ["mean"],
+          "fields": ["playerankScore_x"],
+          "as": ["mean_playerankScore_x"]
+        }
+      ]
+    }
+  ],
+  "signals": [{"name": "height", "update": "height"}],
+  "marks": [
+    {
+      "name": "layer_0_marks",
+      "type": "rect",
+      "style": ["bar"],
+      "from": {"data": "data_1"},
+      "encode": {
+        "update": {
+          "fill": {"value": "#4c78a8"},
+          "x2": [
+            {
+              "test": "datum[\"bin_maxbins_10_playerankScore_x\"] === null || isNaN(datum[\"bin_maxbins_10_playerankScore_x\"])",
+              "value": 0
+            },
+            {
+              "scale": "x",
+              "field": "bin_maxbins_10_playerankScore_x",
+              "offset": 1
+            }
+          ],
+          "x": [
+            {
+              "test": "datum[\"bin_maxbins_10_playerankScore_x\"] === null || isNaN(datum[\"bin_maxbins_10_playerankScore_x\"])",
+              "value": 0
+            },
+            {"scale": "x", "field": "bin_maxbins_10_playerankScore_x_end"}
+          ],
+          "y": {"scale": "y", "field": "__count"},
+          "y2": {"scale": "y", "value": 0}
+        }
+      }
+    },
+    {
+      "name": "layer_1_marks",
+      "type": "rule",
+      "style": ["rule"],
+      "from": {"data": "data_2"},
+      "encode": {
+        "update": {
+          "stroke": {"value": "red"},
+          "x": [
+            {
+              "test": "datum[\"mean_playerankScore_x\"] === null || isNaN(datum[\"mean_playerankScore_x\"])",
+              "value": 0
+            },
+            {"scale": "x", "field": "mean_playerankScore_x"}
+          ],
+          "y": {"field": {"group": "height"}},
+          "y2": {"value": 0},
+          "strokeWidth": {"value": 5}
+        }
+      }
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {
+            "signal": "[layer_0_bin_maxbins_10_playerankScore_x_bins.start, layer_0_bin_maxbins_10_playerankScore_x_bins.stop]"
+          },
+          {"data": "data_2", "field": "mean_playerankScore_x"}
+        ]
+      },
+      "range": [0, {"signal": "width"}],
+      "bins": {"signal": "layer_0_bin_maxbins_10_playerankScore_x_bins"},
+      "nice": true,
+      "zero": false
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "domain": {"data": "data_1", "field": "__count"},
+      "range": [{"signal": "height"}, 0],
+      "nice": true,
+      "zero": true
+    }
+  ],
+  "axes": [
+    {
+      "scale": "x",
+      "orient": "bottom",
+      "grid": false,
+      "title": "Mean of playerankScore_x",
+      "labelFlush": true,
+      "labelOverlap": true,
+      "tickCount": {"signal": "ceil(width/40)"},
+      "zindex": 1
+    },
+    {
+      "scale": "x",
+      "orient": "bottom",
+      "grid": true,
+      "tickCount": {"signal": "ceil(width/40)"},
+      "domain": false,
+      "labels": false,
+      "maxExtent": 0,
+      "minExtent": 0,
+      "ticks": false,
+      "zindex": 0
+    },
+    {
+      "scale": "y",
+      "orient": "left",
+      "grid": false,
+      "title": "Count of Records",
+      "labelOverlap": true,
+      "tickCount": {"signal": "ceil(height/40)"},
+      "zindex": 1
+    },
+    {
+      "scale": "y",
+      "orient": "left",
+      "gridScale": "x",
+      "grid": true,
+      "tickCount": {"signal": "ceil(height/40)"},
+      "domain": false,
+      "labels": false,
+      "maxExtent": 0,
+      "minExtent": 0,
+      "ticks": false,
+      "zindex": 0
+    }
+  ]
+}
