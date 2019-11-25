@@ -60,16 +60,22 @@ class SecondScreen extends React.Component{
         {this.state.tab==0?
         <>
         <VegaComponent id='ClassificationDetail'></VegaComponent>
+        <p className="our-desc"> Table Ranking Variability </p>
         <VegaComponent id='ClassificationDetail2'></VegaComponent>
+            {/*<p className="our-desc"> Team FIFA Ratings </p>*/}
         </>
         :
         (this.state.tab==1?
         <>
         <Numbers id='MatchesDetail'></Numbers>
+            <p className="our-desc"> Match Stats </p>
         <VegaComponent id='MatchesDetail'></VegaComponent>
+            <p className="our-desc"> Key Performance Indicators </p>
         </>
         :
-        <><VegaComponent id='PlayersDetail'/></>
+        <><VegaComponent id='PlayersDetail'/>
+            <p className="our-desc"> Player Diversity (Within Europe & The World) </p>
+        </>
         )}
         </Col>
         </Row>
