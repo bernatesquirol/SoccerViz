@@ -60,6 +60,7 @@ class SecondScreen extends React.Component{
         {this.state.tab==0?
         <>
         <VegaComponent id='ClassificationDetail'></VegaComponent>
+        <VegaComponent id='ClassificationDetail2'></VegaComponent>
         </>
         :
         (this.state.tab==1?
