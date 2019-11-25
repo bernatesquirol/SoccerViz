@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import { Vega } from 'react-vega';
 import {Table,Row,Col} from 'react-bootstrap'
 const signalListeners = { };//hover: handleHover
