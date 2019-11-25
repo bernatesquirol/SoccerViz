@@ -24,7 +24,8 @@ export default ()=>(
                 <h2>Players</h2>
                 <p>We want to know where are the top 100 players</p>
                 <img src={pie} style={{width:300}}></img>
-                <VegaComponent id='PlayersMain'></VegaComponent></Col>
+                <img src={pie2} style={{width:300}}></img>
+            </Col>
         </Row>
     </Container>
 )

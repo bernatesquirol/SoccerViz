@@ -10,8 +10,7 @@ const dict={
     'ClassificationMain2':require('../data/ClassificationMain2Spec.json'),
     'MatchesDetail':require('../data/MatchesDetailSpec.json'),
     'MatchesMain':require('../data/MatchesMainSpec.json'),
-    'PlayersDetail':require('../data/PlayersDetailSpec.json'),
-    'PlayersMain':require('../data/PlayersMainSpec.json')
+    'PlayersDetail':require('../data/PlayersDetailSpec.json')
 }
 
 const signalListeners = { };//hover: handleHover
