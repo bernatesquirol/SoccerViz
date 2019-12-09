@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/SoccerViz/static/css/main.f43a9cea.chunk.css",
-    "main.js": "/SoccerViz/static/js/main.a3cfa9ba.chunk.js",
-    "main.js.map": "/SoccerViz/static/js/main.a3cfa9ba.chunk.js.map",
-    "runtime-main.js": "/SoccerViz/static/js/runtime-main.829e3e40.js",
-    "runtime-main.js.map": "/SoccerViz/static/js/runtime-main.829e3e40.js.map",
-    "static/css/2.b0bb7f2c.chunk.css": "/SoccerViz/static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.eaef8fd3.chunk.js": "/SoccerViz/static/js/2.eaef8fd3.chunk.js",
-    "static/js/2.eaef8fd3.chunk.js.map": "/SoccerViz/static/js/2.eaef8fd3.chunk.js.map",
-    "index.html": "/SoccerViz/index.html",
-    "precache-manifest.f83b51cd06b35d8e401e60cbccf4b7b0.js": "/SoccerViz/precache-manifest.f83b51cd06b35d8e401e60cbccf4b7b0.js",
-    "service-worker.js": "/SoccerViz/service-worker.js",
-    "static/css/2.b0bb7f2c.chunk.css.map": "/SoccerViz/static/css/2.b0bb7f2c.chunk.css.map",
-    "static/css/main.f43a9cea.chunk.css.map": "/SoccerViz/static/css/main.f43a9cea.chunk.css.map",
-    "static/media/gb.jpg": "/SoccerViz/static/media/gb.b126bb15.jpg",
-    "static/media/logo.svg": "/SoccerViz/static/media/logo.25bf045c.svg",
-    "static/media/pie.jpg": "/SoccerViz/static/media/pie.4b77bc3d.jpg",
-    "static/media/pie2.jpg": "/SoccerViz/static/media/pie2.5c4f485c.jpg",
-    "static/media/sp.jpg": "/SoccerViz/static/media/sp.9cdd1b84.jpg"
+    "main.css": "/soccer-dashboard/static/css/main.f43a9cea.chunk.css",
+    "main.js": "/soccer-dashboard/static/js/main.e88500b7.chunk.js",
+    "main.js.map": "/soccer-dashboard/static/js/main.e88500b7.chunk.js.map",
+    "runtime-main.js": "/soccer-dashboard/static/js/runtime-main.e3923744.js",
+    "runtime-main.js.map": "/soccer-dashboard/static/js/runtime-main.e3923744.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/soccer-dashboard/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.d5c94793.chunk.js": "/soccer-dashboard/static/js/2.d5c94793.chunk.js",
+    "static/js/2.d5c94793.chunk.js.map": "/soccer-dashboard/static/js/2.d5c94793.chunk.js.map",
+    "index.html": "/soccer-dashboard/index.html",
+    "precache-manifest.2bbc34d60b39e1f10e6a50b05ccaaa90.js": "/soccer-dashboard/precache-manifest.2bbc34d60b39e1f10e6a50b05ccaaa90.js",
+    "service-worker.js": "/soccer-dashboard/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/soccer-dashboard/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.f43a9cea.chunk.css.map": "/soccer-dashboard/static/css/main.f43a9cea.chunk.css.map",
+    "static/media/gb.jpg": "/soccer-dashboard/static/media/gb.b126bb15.jpg",
+    "static/media/logo.svg": "/soccer-dashboard/static/media/logo.25bf045c.svg",
+    "static/media/pie.jpg": "/soccer-dashboard/static/media/pie.4b77bc3d.jpg",
+    "static/media/pie2.jpg": "/soccer-dashboard/static/media/pie2.5c4f485c.jpg",
+    "static/media/sp.jpg": "/soccer-dashboard/static/media/sp.9cdd1b84.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.829e3e40.js",
+    "static/js/runtime-main.e3923744.js",
     "static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.eaef8fd3.chunk.js",
+    "static/js/2.d5c94793.chunk.js",
     "static/css/main.f43a9cea.chunk.css",
-    "static/js/main.a3cfa9ba.chunk.js"
+    "static/js/main.e88500b7.chunk.js"
   ]
 }
